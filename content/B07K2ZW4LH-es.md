@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'SGODDE Pasamontañas Moto Invierno  Balaclava Máscara  Mascarilla Térmica a Prueba de Viento Multifuncional para Proteger la Cara y el Cuello de Lesiones. Adecuado para Ciclismo  Moto  Hombre y Mujere.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2ZW4LH/?tag=tolees-21'
 descuento: '7.70'
 average: '12.323333333333334'

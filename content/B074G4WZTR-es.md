@@ -16,6 +16,7 @@ comparePrice: 5.79 EUR
 prodname: 'Mascarilla papel 100 und.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074G4WZTR/?tag=tolees-21'
 descuento: '5.01'
 average: '5.5'

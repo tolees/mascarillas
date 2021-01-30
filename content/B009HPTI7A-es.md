@@ -16,6 +16,7 @@ comparePrice: 28.54 EUR
 prodname: '3M 9322+SV Mascarilla Autofiltrante para Partículas FFP2 con válvula  5 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009HPTI7A/?tag=tolees-21'
 descuento: '17.83'
 average: '23.45'

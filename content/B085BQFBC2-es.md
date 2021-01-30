@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Mascarilla respiratoria 5 Piezas  Moderna mascarilla Protectora para la Boca y el Polvo protección Mujeres/Hombre Unisex Adecuado  Reutilizable  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BQFBC2/?tag=tolees-21'
 descuento: '5.51'
 average: '7.165'

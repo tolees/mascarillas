@@ -16,6 +16,7 @@ comparePrice: 6.98 EUR
 prodname: 'Redmoo Máscara Antipolvo  5 piezas Máscarillas Reutilizable Lavable  Mascarilla Elástica  Máscaras de Protección Mascarillas de Boca para Hombres Mujeres Unisex  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088M4BT4W/?tag=tolees-21'
 descuento: '16.19'
 average: '5.85'

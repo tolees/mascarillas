@@ -16,6 +16,7 @@ comparePrice: 10.67 EUR
 prodname: 'FFP3/FFP2 - Mascarilla Moldeada para la higiene de la válvula  anticontaminación N97/N95 con válvula Antipolvo  Filtro FFP3 97%/94% bacterias  protección contra Polvo y contaminantes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854LTCB9/?tag=tolees-21'
 descuento: '6.37'
 average: '9.99'

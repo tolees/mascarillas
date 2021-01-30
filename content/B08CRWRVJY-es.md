@@ -16,6 +16,7 @@ comparePrice: 11.04 EUR
 prodname: 'Máscara de Almacenamiento portátil Caja a Prueba de Polvo a Prueba de Humedad máscara Rectangular Caja de plástico Caja de Limpieza efectivamente almacenar Blanco sin incluir la mascarilla  10PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRWRVJY/?tag=tolees-21'
 descuento: '20.38'
 average: '8.79'

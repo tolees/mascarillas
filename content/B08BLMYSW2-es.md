@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: '6 piezas salvaorejas- Antideslizante- Ideal para trabajar o hacer deporte- Protector de oídos- Alivia el dolor y roce en las orejas- Incluye funda para mascarilla GRATIS- Diseño español'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BLMYSW2/?tag=tolees-21'
 descuento: '10.01'
 average: '8.99'

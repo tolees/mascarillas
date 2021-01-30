@@ -16,6 +16,7 @@ comparePrice: 3.4 EUR
 prodname: 'BASDT PM2.5 - Mascarilla antipolvo  lavable  con tirantes ajustables  3 unidades '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08538PPXH/?tag=tolees-21'
 descuento: '17.65'
 average: '2.8449999999999998'

@@ -16,6 +16,7 @@ comparePrice: 12.46 EUR
 prodname: '12 filtros de repuesto de carbón activo + 4 válvulas de respiración  reutilizables  transpirables  filtro de mascarilla para polvo PM 2 5 para bicicleta  deporte  mascarilla de protección respiratoria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087M7MFDN/?tag=tolees-21'
 descuento: '4.98'
 average: '11.58'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Love Beauty and Planet - Mascarilla de Tejido para Piel suave y luminosa  Manteca de Murumuru & Rosa Vegana  Pack de 5 x 21 ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRLFW3P/?tag=tolees-21'
 descuento: '19.80'
 average: '11.99'

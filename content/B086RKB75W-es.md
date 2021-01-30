@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Envirobest  mascarilla protectora para el respirador FFP2/ KN95  94% de filtración  paquete de 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RKB75W/?tag=tolees-21'
 descuento: '24.01'
 average: '22.79'

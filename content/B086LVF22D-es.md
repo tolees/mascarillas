@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Vinfa Pro Mascarillas Faciales Quirúrgicas Protector de Boca y Nariz  50 Máscaras por Paquete '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086LVF22D/?tag=tolees-21'
 descuento: '21.46'
 average: '5.49'

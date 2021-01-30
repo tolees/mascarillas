@@ -16,6 +16,7 @@ comparePrice: 12.39 EUR
 prodname: 'EXTSUD Máscarillas 12 Piezas Mascarilla Antipolvo Mascarilla Elástica Reutilizable  Ideal para Adultos Contra el Viento  Unisex  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0852TPWNB/?tag=tolees-21'
 descuento: '11.30'
 average: '10.99'

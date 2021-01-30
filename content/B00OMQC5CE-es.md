@@ -16,6 +16,7 @@ comparePrice: 27.05 EUR
 prodname: '3M Mascarilla desechable para partículas autofiltrante FFP1 NR D con válvula  10 mascarillas/caja   10 Unidades  8312  Certificado de seguridad EN'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OMQC5CE/?tag=tolees-21'
 descuento: '10.31'
 average: '24.26'
