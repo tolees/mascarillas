@@ -28,10 +28,10 @@ Tienes [Mascarilla adulto amarilla Roma 2020  Rafa Nadal Academy by Movistar ofi
 
 ℹ️:
 
+- Lavable y reutilizable hasta 30 lavados
+- Se adapta fácilmente a la cara gracias a las gomas que se ajustan detrás de las orejas
 - Muy cómoda para la práctica deportiva gracias a su transpirabilidad
 - Mascarilla unisex higiénica de adulto homologada
-- Se adapta fácilmente a la cara gracias a las gomas que se ajustan detrás de las orejas
-- Lavable y reutilizable hasta 30 lavados
 - Transpirable e impermeable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08N5YGGHV/?tag=tolees-21)
