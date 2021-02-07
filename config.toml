@@ -1,5 +1,5 @@
 baseURL = "https://mascarillas.tole.es"
-title = "Mascarillas FFP2, FFP3, etc"
+title = "Mascarillas FFP2, FFP3, KNI95, etc"
 theme = "portfolio"
 languageCode = "es-es"
 # Enable comments by entering your Disqus shortname
@@ -15,7 +15,7 @@ paginate = 30
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "sea"
-  description = "Descuentos en Mascarillas"
+  description = "Descuentos en Mascarillas KNI95, FFP2, FFP3, higiénicas..."
   copyright = ""
   sidebarAbout = []
   # Enable Google Analytics by entering your tracking code
