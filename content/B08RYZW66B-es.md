@@ -28,10 +28,10 @@ Está [ENERGY BALANCE Mascarilla FFP2 negra Homologada CE -  20-Unidedes ](https
 
 ℹ️:
 
-- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado nº. 2834, con marcado CE.
 - Fabricación de 5 capas y acabado termosellado, incluyendo bandas elásticas de fijación a juego, pinza adaptable en nariz para un firme ajuste y ajustador craneal
 - Mascarilla autofiltrante de protección y seguridad FFP2, disponible en variada gama de colores. Con doble protección, tanto para el portador de la mascarilla como para las personas del entorno
-- Contiene: 20 Mascarillas FFP2 negras + Ajustador Craneal , desechables, CE 2834
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable.No contiene Látex
+- Contiene: 20 Mascarillas FFP2 negras + Ajustador Craneal , desechables, CE 2834
+- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado nº. 2834, con marcado CE.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RYZW66B/?tag=tolees-21)
