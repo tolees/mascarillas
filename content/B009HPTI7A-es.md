@@ -2,7 +2,7 @@
 layout: post
 title: '3M 9322+SV Mascarilla Autofiltrante para al 17.83 % de descuento'
 date: 2020-02-01 02:31:24
-image: 'https://m.media-amazon.com/images/I/31mcJTLFV1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mcJTLFV1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.45'
 
 Ahora mismo tienes [3M 9322+SV Mascarilla Autofiltrante para Partículas FFP2 con válvula  5 unidades](https://www.amazon.es/dp/B009HPTI7A/?tag=tolees-21) a 23.45 EUR (original: 28.54 EUR) (17.83 %  de descuento) en el siguiente enlace!
 
-[![3M 9322+SV Mascarilla Autofiltrante para](https://m.media-amazon.com/images/I/31mcJTLFV1L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B009HPTI7A/?tag=tolees-21)
+[![3M 9322+SV Mascarilla Autofiltrante para](https://m.media-amazon.com/images/I/31mcJTLFV1L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B009HPTI7A/?tag=tolees-21)
 
 🔎:
 

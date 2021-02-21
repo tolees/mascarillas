@@ -2,7 +2,7 @@
 layout: post
 title: 'Mascarilla respiratoria 5 Piezas  Modern al 5.51 % de descuento'
 date: 2020-03-29 19:24:14
-image: 'https://m.media-amazon.com/images/I/51hYj9w8KWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hYj9w8KWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.165'
 
 Ahora mismo tienes [Mascarilla respiratoria 5 Piezas  Moderna mascarilla Protectora para la Boca y el Polvo protección Mujeres/Hombre Unisex Adecuado  Reutilizable  Negro ](https://www.amazon.es/dp/B085BQFBC2/?tag=tolees-21) a 7.55 EUR (original: 7.99 EUR) (5.51 %  de descuento) en el siguiente enlace!
 
-[![Mascarilla respiratoria 5 Piezas  Modern](https://m.media-amazon.com/images/I/51hYj9w8KWL._SL200_.jpg)](https://www.amazon.es/dp/B085BQFBC2/?tag=tolees-21)
+[![Mascarilla respiratoria 5 Piezas  Modern](https://m.media-amazon.com/images/I/51hYj9w8KWL._SL400_.jpg)](https://www.amazon.es/dp/B085BQFBC2/?tag=tolees-21)
 
 🔎:
 

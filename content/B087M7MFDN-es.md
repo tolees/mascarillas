@@ -2,7 +2,7 @@
 layout: post
 title: '12 filtros de repuesto de carbón activo  al 4.98 % de descuento'
 date: 2020-06-02 15:09:41
-image: 'https://m.media-amazon.com/images/I/41TNOivt4sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TNOivt4sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.58'
 
 Ahora mismo tienes [12 filtros de repuesto de carbón activo + 4 válvulas de respiración  reutilizables  transpirables  filtro de mascarilla para polvo PM 2 5 para bicicleta  deporte  mascarilla de protección respiratoria](https://www.amazon.es/dp/B087M7MFDN/?tag=tolees-21) a 11.84 EUR (original: 12.46 EUR) (4.98 %  de descuento) en el siguiente enlace!
 
-[![12 filtros de repuesto de carbón activo ](https://m.media-amazon.com/images/I/41TNOivt4sL._SL200_.jpg)](https://www.amazon.es/dp/B087M7MFDN/?tag=tolees-21)
+[![12 filtros de repuesto de carbón activo ](https://m.media-amazon.com/images/I/41TNOivt4sL._SL400_.jpg)](https://www.amazon.es/dp/B087M7MFDN/?tag=tolees-21)
 
 🔎:
 
