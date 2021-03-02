@@ -28,10 +28,10 @@ En este momento está [INIT - Pack 2 Gamuza Antivaho para Gafas con 200 usos - L
 
 🔎:
 
-- ✔️ Este pack de INIT KITS contiene dos toallitas antivaho gafas de microfibra que evita que las gafas se empañen. Libre de P.F.O.A.
-- ✔️ En INIT KITS estamos siempre a tu disposición para ofrecerte un servicio de atención al cliente profesional. La garantía de fábrica solo está disponible a través de vendedores autorizados.
 - ✔️ No requiere de ningún tipo de líquido, se puede usar hasta 300 veces sin que pierda efectividad y su efecto dura hasta 10 horas.
+- ✔️ En INIT KITS estamos siempre a tu disposición para ofrecerte un servicio de atención al cliente profesional. La garantía de fábrica solo está disponible a través de vendedores autorizados.
 - ✔️ Recomendada para gafas graduadas y de sol, gafas de esquí y lentes de cámaras de fotos o cualquier lente óptica. Ideal tamien para deportistas, casco de moto, espejos...
+- ✔️ Este pack de INIT KITS contiene dos toallitas antivaho gafas de microfibra que evita que las gafas se empañen. Libre de P.F.O.A.
 - ✔️ Gracias a su reducido tamaño, podrás transportarlo cómodamente disponiendo de abre fácil para su uso ante cualquier situación.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SMKMZDD/?tag=tolees-21)
