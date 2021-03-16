@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B086LVF22D-es Vinfa Pro Mascarillas Faciales Quirúrgicas Protector de...'
 sku: 'B086LVF22D-es'
-tags: [ 'quirúrgicas','quirúrgicas', ]
+tags: [ 'quirúrgicas', ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49
