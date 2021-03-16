@@ -5,7 +5,7 @@ date: 2020-03-16 08:48:39
 image: 'https://m.media-amazon.com/images/I/41L5dEBE+2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08538PPXH-es BASDT PM2.5 - Mascarilla antipolvo lavable con tirantes...'
 sku: 'B08538PPXH-es'
 tags: [ 'mascarilla', ]

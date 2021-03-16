@@ -5,7 +5,7 @@ date: 2020-08-01 21:55:20
 image: 'https://m.media-amazon.com/images/I/41iJZzLm0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRWRVJY-es Máscara de Almacenamiento portátil Caja a Prueba de Polvo...'
 sku: 'B08CRWRVJY-es'
 tags: [ 'mascarilla', ]

@@ -5,7 +5,7 @@ date: 2020-05-21 07:13:47
 image: 'https://m.media-amazon.com/images/I/41bedHVrYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M4BT4W-es Redmoo Máscara Antipolvo 5 piezas Máscarillas Reutilizable...'
 sku: 'B088M4BT4W-es'
 tags: [ 'mascarilla', ]

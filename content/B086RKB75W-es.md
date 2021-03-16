@@ -5,7 +5,7 @@ date: 2020-07-08 21:28:17
 image: 'https://m.media-amazon.com/images/I/41dVkb2m7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086RKB75W-es Envirobest mascarilla protectora para el respirador FFP2/...'
 sku: 'B086RKB75W-es'
 tags: [ 'mascarilla', ]

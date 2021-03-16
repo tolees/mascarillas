@@ -5,7 +5,7 @@ date: 2020-02-01 02:31:24
 image: 'https://m.media-amazon.com/images/I/31mcJTLFV1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009HPTI7A-es 3M 9322+SV Mascarilla Autofiltrante para Partículas FFP2...'
 sku: 'B009HPTI7A-es'
 tags: [ 'ffp2','mascarilla', ]

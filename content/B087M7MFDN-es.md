@@ -5,7 +5,7 @@ date: 2020-06-02 15:09:41
 image: 'https://m.media-amazon.com/images/I/41TNOivt4sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M7MFDN-es 12 filtros de repuesto de carbón activo + 4 válvulas de...'
 sku: 'B087M7MFDN-es'
 tags: [ 'mascarilla', ]

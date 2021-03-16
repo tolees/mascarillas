@@ -5,7 +5,7 @@ date: 2020-03-29 19:24:14
 image: 'https://m.media-amazon.com/images/I/51hYj9w8KWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BQFBC2-es Mascarilla respiratoria 5 Piezas Moderna mascarilla...'
 sku: 'B085BQFBC2-es'
 tags: [ 'mascarilla', ]

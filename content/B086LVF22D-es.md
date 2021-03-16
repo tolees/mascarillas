@@ -5,7 +5,7 @@ date: 2020-06-29 13:44:10
 image: 'https://m.media-amazon.com/images/I/31yldUQPF2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086LVF22D-es Vinfa Pro Mascarillas Faciales Quirúrgicas Protector de...'
 sku: 'B086LVF22D-es'
 tags: [ 'quirúrgicas', ]

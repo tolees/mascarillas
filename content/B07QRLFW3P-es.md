@@ -5,7 +5,7 @@ date: 2020-05-31 21:16:31
 image: 'https://m.media-amazon.com/images/I/41+F0A6dB8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRLFW3P-es Love Beauty and Planet - Mascarilla de Tejido para Piel...'
 sku: 'B07QRLFW3P-es'
 tags: [ 'mascarilla', ]

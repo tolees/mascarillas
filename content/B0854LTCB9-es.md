@@ -5,7 +5,7 @@ date: 2020-03-02 09:25:13
 image: 'https://m.media-amazon.com/images/I/31986x0CPML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0854LTCB9-es FFP3/FFP2 - Mascarilla Moldeada para la higiene de la...'
 sku: 'B0854LTCB9-es'
 tags: [ 'ffp3','mascarilla', ]

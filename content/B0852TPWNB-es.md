@@ -5,7 +5,7 @@ date: 2020-03-14 17:47:34
 image: 'https://m.media-amazon.com/images/I/41c5RhW47eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0852TPWNB-es EXTSUD Máscarillas 12 Piezas Mascarilla Antipolvo...'
 sku: 'B0852TPWNB-es'
 tags: [ 'mascarilla', ]

@@ -5,7 +5,7 @@ date: 2020-08-10 15:19:41
 image: 'https://m.media-amazon.com/images/I/41NBUXldQmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2ZW4LH-es SGODDE Pasamontañas Moto Invierno Balaclava Máscara...'
 sku: 'B07K2ZW4LH-es'
 tags: [ 'mascarilla', ]

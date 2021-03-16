@@ -5,7 +5,7 @@ date: 2020-02-07 14:14:03
 image: 'https://m.media-amazon.com/images/I/31sIH1bAB6L._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074G4WZTR-es Mascarilla papel 100 und.'
 sku: 'B074G4WZTR-es'
 tags: [ 'mascarilla', ]
