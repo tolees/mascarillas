@@ -28,10 +28,10 @@ Tienes [YIDA - Mascarilla Higiénica Adulto Mix Colores 50 Unidades](https://www
 
 ℹ️:
 
-- TIEMPO DE USO. Las no reutilizables, deben ser retiradas después de su tiempo recomendado de uso. Por cuestiones de comodidad e higiene, se suele recomendar no usar las mascarillas mas de 4 horas seguidas. En caso de que se humedezca o se deteriore por el uso, se recomienda sustituirla por otra.
 - COMPOSICIÓN. 3 capas compuestas de tela no tejida spunbord: Polipropileno hidrófobo, tela no tejida spunlace: polipropileno. La mascarilla está compuesta por el cuerpo, las cintas elásticas y la pinza nasal.
-- Lote 50 unidades mixto colores.
 - HIGIÉNICAS. Mascarillas higíenicas de un sólo uso, no reutilizables . 3 capas, transpirables , cómo y fácil de llevar.
+- Lote 50 unidades mixto colores.
+- TIEMPO DE USO. Las no reutilizables, deben ser retiradas después de su tiempo recomendado de uso. Por cuestiones de comodidad e higiene, se suele recomendar no usar las mascarillas mas de 4 horas seguidas. En caso de que se humedezca o se deteriore por el uso, se recomienda sustituirla por otra.
 - ESPECIFICACIONES. Cumple con las especificaciones europeas de mascarillas higiénicas desechables UNE 0064
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08LW5NRCS/?tag=tolees-21)
