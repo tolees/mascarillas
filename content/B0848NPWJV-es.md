@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0848NPWJV-es BYJIN 50 Unids PM2.5 N95 Filtros de Máscara de Carbón...'
 sku: 'B0848NPWJV-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

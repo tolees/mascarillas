@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086JHXXYK-es N/ A Mascara Ninos Mascarilla Antipolvo Boca Mascarillas...'
 sku: 'B086JHXXYK-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

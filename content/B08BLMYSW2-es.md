@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLMYSW2-es 6 piezas salvaorejas- Antideslizante- Ideal para trabajar...'
 sku: 'B08BLMYSW2-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

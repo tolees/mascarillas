@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YV2X5JJ-es kampre - Mascarilla de carbón Activo de 4 Capas 50 Piezas...'
 sku: 'B07YV2X5JJ-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

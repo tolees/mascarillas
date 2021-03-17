@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085BQFBC2-es Mascarilla respiratoria 5 Piezas Moderna mascarilla...'
 sku: 'B085BQFBC2-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

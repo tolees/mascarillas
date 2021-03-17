@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D8VRJYM-es Himalaya Herbals Mascarilla de Almendra y Pepino 75 ml'
 sku: 'B01D8VRJYM-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

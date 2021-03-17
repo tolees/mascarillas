@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GRZFX8-es SIMBR General - 30 unidades KN-95 N-95 FFP2 PM2.5...'
 sku: 'B086GRZFX8-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','ffp2', ]
+tags: [ 'ffp2', ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

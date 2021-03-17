@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085KY6TZP-es Máscara ffp2 Máscara para Exteriores Máscara...'
 sku: 'B085KY6TZP-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','ffp2', ]
+tags: [ 'ffp2', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2ZW4LH-es SGODDE Pasamontañas Moto Invierno Balaclava Máscara...'
 sku: 'B07K2ZW4LH-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

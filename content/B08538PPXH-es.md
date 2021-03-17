@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08538PPXH-es BASDT PM2.5 - Mascarilla antipolvo lavable con tirantes...'
 sku: 'B08538PPXH-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

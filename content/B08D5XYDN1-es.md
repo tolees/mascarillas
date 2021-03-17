@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D5XYDN1-es Haberdashery Online Kit Mascarilla higiénica textil...'
 sku: 'B08D5XYDN1-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

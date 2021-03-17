@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NR19ZP-es Mascarilla 20PCS Pañuelos de Protección Personal'
 sku: 'B087NR19ZP-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

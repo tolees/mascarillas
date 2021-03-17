@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0848LVCXC-es Mascarilla de protección respiratoria N95 – Máscara...'
 sku: 'B0848LVCXC-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
+tags: [ 'mascarilla', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99
