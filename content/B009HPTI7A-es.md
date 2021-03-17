@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009HPTI7A-es 3M 9322+SV Mascarilla Autofiltrante para Partículas FFP2...'
 sku: 'B009HPTI7A-es'
-tags: [ 'ffp2','mascarilla', ]
+tags: [  ]
 actualPrice: 23.45 EUR
 currency: EUR
 price: 23.45

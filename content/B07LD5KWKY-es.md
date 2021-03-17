@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LD5KWKY-es Shayson Paquete de 16 Mascarilla rcp CPR Máscara de...'
 sku: 'B07LD5KWKY-es'
-tags: [ 'mascarilla', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

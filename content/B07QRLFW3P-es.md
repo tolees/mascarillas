@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QRLFW3P-es Love Beauty and Planet - Mascarilla de Tejido para Piel...'
 sku: 'B07QRLFW3P-es'
-tags: [ 'mascarilla', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
