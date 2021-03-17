@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089QB3KTM-es Extensor para mascarilla para sujetar la mascarilla sin...'
 sku: 'B089QB3KTM-es'
-tags: [ 'mascarilla', ]
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

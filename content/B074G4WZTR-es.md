@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074G4WZTR-es Mascarilla papel 100 und.'
 sku: 'B074G4WZTR-es'
-tags: [ 'mascarilla', ]
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

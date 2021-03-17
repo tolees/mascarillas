@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCRPFJ4-es Carbón Activado Premium – Polvo 100 % orgánico – Sin...'
 sku: 'B01NCRPFJ4-es'
-tags: [ 'mascarilla', ]
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

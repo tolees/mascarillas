@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HLZBGGP-es 5 Máscaras Faciales KN95 / FFP2 Mascarilla Mascarilla...'
 sku: 'B08HLZBGGP-es'
-tags: [ 'ffp2','mascarilla', ]
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','ffp2','mascarilla', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

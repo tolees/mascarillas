@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M7MFDN-es 12 filtros de repuesto de carbón activo + 4 válvulas de...'
 sku: 'B087M7MFDN-es'
-tags: [ 'mascarilla', ]
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

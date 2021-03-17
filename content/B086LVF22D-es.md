@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086LVF22D-es Vinfa Pro Mascarillas Faciales Quirúrgicas Protector de...'
 sku: 'B086LVF22D-es'
-tags: [ 'quirúrgicas', ]
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','quirúrgicas', ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

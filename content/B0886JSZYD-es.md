@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0886JSZYD-es 10x Mascarilla KN***95'
 sku: 'B0886JSZYD-es'
-tags: [ 'mascarilla', ]
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

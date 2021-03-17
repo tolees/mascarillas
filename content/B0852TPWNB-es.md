@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0852TPWNB-es EXTSUD Máscarillas 12 Piezas Mascarilla Antipolvo...'
 sku: 'B0852TPWNB-es'
-tags: [ 'mascarilla', ]
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','mascarilla', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

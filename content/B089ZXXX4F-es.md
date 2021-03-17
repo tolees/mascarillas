@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZXXX4F-es FFP2 Mascarilla protectora 5 capas de mascarilla filtrante...'
 sku: 'B089ZXXX4F-es'
-tags: [ 'ffp2','mascarilla', ]
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','ffp2','mascarilla', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98
