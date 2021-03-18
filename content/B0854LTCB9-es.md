@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854LTCB9-es FFP3/FFP2 - Mascarilla Moldeada para la higiene de la...'
 sku: 'B0854LTCB9-es'
-tags: [  ]
+tags: [ 'ffp3','mascarilla', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

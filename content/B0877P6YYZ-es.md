@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0877P6YYZ-es Unibear Mascarilla Protectora Desechable Respiratoria FFP2...'
 sku: 'B0877P6YYZ-es'
-tags: [  ]
+tags: [ 'ffp2','mascarilla', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
