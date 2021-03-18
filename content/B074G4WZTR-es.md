@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074G4WZTR-es Mascarilla papel 100 und.'
 sku: 'B074G4WZTR-es'
+tags: [ 'mascarilla', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

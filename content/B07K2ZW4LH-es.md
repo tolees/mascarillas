@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2ZW4LH-es SGODDE Pasamontañas Moto Invierno Balaclava Máscara...'
 sku: 'B07K2ZW4LH-es'
+tags: [ 'mascarilla', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
