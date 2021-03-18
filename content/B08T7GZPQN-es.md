@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T7GZPQN-es IDOIT Mascarillas ffp2 filtro multicapa Certificado CE y...'
 sku: 'B08T7GZPQN-es'
-tags: [ 'ffp2', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

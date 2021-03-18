@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RKB75W-es Envirobest mascarilla protectora para el respirador FFP2/...'
 sku: 'B086RKB75W-es'
-tags: [ 'mascarilla', ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

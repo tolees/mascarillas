@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRWRVJY-es Máscara de Almacenamiento portátil Caja a Prueba de Polvo...'
 sku: 'B08CRWRVJY-es'
-tags: [ 'mascarilla', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

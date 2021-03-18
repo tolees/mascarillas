@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SMKMZDD-es INIT - Pack 2 Gamuza Antivaho para Gafas con 200 usos -...'
 sku: 'B08SMKMZDD-es'
-tags: [ 'mascarilla', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RPY4GZ3-es Herbal Essences bio:renew Mascarilla Hidratación Leche de...'
 sku: 'B07RPY4GZ3-es'
-tags: [ 'mascarilla', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

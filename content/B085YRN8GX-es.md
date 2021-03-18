@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085YRN8GX-es Scholl Mascarilla Nutritiva Para Pies Hidratación Intensa...'
 sku: 'B085YRN8GX-es'
-tags: [ 'mascarilla', ]
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

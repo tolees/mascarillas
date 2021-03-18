@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RZ7TNXH-es SICURA MASCHERINE CHIRURGICHE - 50 Mascarillas FFP2...'
 sku: 'B08RZ7TNXH-es'
-tags: [ 'mascarilla','ffp2', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

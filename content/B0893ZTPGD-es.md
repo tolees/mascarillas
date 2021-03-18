@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893ZTPGD-es Mascarilla FFP2 CE 0598 WottoCare Mascarilla de Protección...'
 sku: 'B0893ZTPGD-es'
-tags: [ 'mascarilla','ffp2', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MFMZT6D-es YIDA - Mascarillas FFP2 Adultos Desechables 5 Capas Color...'
 sku: 'B08MFMZT6D-es'
-tags: [ 'ffp2', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

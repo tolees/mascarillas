@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L6JKSDZ-es TBOC Mascarillas FFP2 - [Pack 20 Unidades] Máscaras...'
 sku: 'B08L6JKSDZ-es'
-tags: [ 'ffp2', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

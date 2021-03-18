@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08RMPT78H-es Filtech Mascarilla FFP2 modelo F861- Certificado Europeo...'
 sku: 'B08RMPT78H-es'
-tags: [ 'ffp2','filtech','mascarilla', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

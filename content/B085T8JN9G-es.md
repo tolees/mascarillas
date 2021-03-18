@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085T8JN9G-es Mascarilla Antipolvo para Adultos Anti PM 2.5 Protección...'
 sku: 'B085T8JN9G-es'
-tags: [ 'mascarilla', ]
 actualPrice: 8.19 EUR
 currency: EUR
 price: 8.19

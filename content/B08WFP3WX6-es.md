@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WFP3WX6-es Xiangying 25x Mascarillas FFP2 Blanco Homologadas y...'
 sku: 'B08WFP3WX6-es'
-tags: [ 'ffp2', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

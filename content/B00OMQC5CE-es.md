@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OMQC5CE-es 3M Mascarilla desechable para partículas autofiltrante...'
 sku: 'B00OMQC5CE-es'
-tags: [ 'mascarilla', ]
 actualPrice: 24.26 EUR
 currency: EUR
 price: 24.26

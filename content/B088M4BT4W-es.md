@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088M4BT4W-es Redmoo Máscara Antipolvo 5 piezas Máscarillas Reutilizable...'
 sku: 'B088M4BT4W-es'
-tags: [ 'mascarilla', ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LW5NRCS-es YIDA - Mascarilla Higiénica Adulto Mix Colores 50 Unidades'
 sku: 'B08LW5NRCS-es'
-tags: [ 'mascarilla','yida', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

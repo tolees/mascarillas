@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P38QZRC-es Baoxiankang Mascarilla de Protección Ffp2 Autofiltrante...'
 sku: 'B08P38QZRC-es'
-tags: [ 'mascarilla','ffp2', ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

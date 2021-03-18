@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B3XNSGZ-es Cia&Co 12 Mascarillas Higiénicas Negras The Pink House + 1...'
 sku: 'B08B3XNSGZ-es'
-tags: [ 'quirúrgicas','quirúrgicas', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95
