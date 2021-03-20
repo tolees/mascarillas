@@ -28,10 +28,10 @@ Tienes [CRAZYCHIC - Mascarilla FFP2 Homologada Certificada CE EN149 - Mascarilla
 
 🔎:
 
-- EMBALAJE: 1 paquete de 10 piezas envasadas individualmente. Embalaje e instrucciones en francés.
-- MARCA REGISTRADA: CRAZYCHIC. Solo los productos vendidos por CRAZYCHIC se ajustan a la descripción. Los productos vendidos por otros vendedores (como MAGIC TALAVERA SHOP CENTER) son falsificaciones. DESIGN: Máscara de protección respiratoria FFP2. Filtrando media mascarilla contra las partículas.
+- MATERIAL: 5 capas de filtro. Clip de nariz de metal. Fijación auricular elástica.
 - ENTREGA RÁPIDA: Stock disponible en Francia.
 - CERTIFICACIÓN CE: Probado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascarilla desechable no reutilizable. Alta filtración.
-- MATERIAL: 5 capas de filtro. Clip de nariz de metal. Fijación auricular elástica.
+- MARCA REGISTRADA: CRAZYCHIC. Solo los productos vendidos por CRAZYCHIC se ajustan a la descripción. Los productos vendidos por otros vendedores (como MAGIC TALAVERA SHOP CENTER) son falsificaciones. DESIGN: Máscara de protección respiratoria FFP2. Filtrando media mascarilla contra las partículas.
+- EMBALAJE: 1 paquete de 10 piezas envasadas individualmente. Embalaje e instrucciones en francés.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KH2T4XV/?tag=tolees-21)

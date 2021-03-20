@@ -28,10 +28,10 @@ Ahora mismo tienes [konjac Mascarillas FFP2 Homologadas Negras  30uds . Mascaril
 
 🔎:
 
-- Con Salvaorejas: Cada caja de las mascarillas ffp2 está empaquetada individualmente. Lleva protector de orejas, es muy útiles para aliviar las marcas y la presión de la mascarilla sobre las orejas.
-- Solo compra en konjac Health para evitar falsificaciones
 - Estructura de composición: Las mascarillas FFP2 Negras konjac es de 5 capas(2 capas exteriores de non woven. 2 capas de melt blown. 1 capa hot air cotton), Clip de nariz de metal. Fijación auricular elástica.
 - Certificación CE 2163: Las mascarillas FFP2 Homologadas NegrasAprobado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Alta filtración. Cumple con los requisitos de UE 2016/425
+- Con Salvaorejas: Cada caja de las mascarillas ffp2 está empaquetada individualmente. Lleva protector de orejas, es muy útiles para aliviar las marcas y la presión de la mascarilla sobre las orejas.
 - No reutilizables. En caso de que se humedezca o se deteriore por el uso, se recomienda sustituirla por otra. Se suele recomendar no usar las mascarillas FFP2 mas de 8 horas seguidas.
+- Solo compra en konjac Health para evitar falsificaciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VDZN5Q7/?tag=tolees-21)
