@@ -30,8 +30,8 @@ Tienes [GROUP TB TOMÁS BODERO GROUP - Mascarillas FFP2 Homologadas CE 0161. Caj
 
 - ✅ SEGURAS sujeción y sellado óptimo gracias al sistema de ajuste con cintas elásticas a la cabeza y a la nariz mediante pieza metálica integrada,
 - ✅ CÓMODAS gracias a la sujeción con gomas elásticas a la cabeza, sin molestias en las orejas. Ergonómicas, confortables y sin olor
-- ✅ CERTIFICADAS por Organismo Español Notificado 0161 AITEX Asociación de Investigación de la Industria Textil. Mascarilla FFP2 Certificado CE 0161. Normativa EN149:2001+A1:2009. UE 2016/425
 - ✅ EFICACES mascarillas homologadas autofiltrantes. No reutilizables. Filtrado superior al >94% ante gases, polen, polvo, gotas y humo, con 5 capas purificación
 - ✅ PRESENTACIÓN en formato caja mascarillas Dermik con 25 máscaras homologadas FFP2 en bolsitas plásticas individuales y Folleto informativo en 4 idiomas. Envío Rápido 🚛
+- ✅ CERTIFICADAS por Organismo Español Notificado 0161 AITEX Asociación de Investigación de la Industria Textil. Mascarilla FFP2 Certificado CE 0161. Normativa EN149:2001+A1:2009. UE 2016/425
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L1YNK39/?tag=tolees-21)
