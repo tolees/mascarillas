@@ -28,14 +28,14 @@ Tienes [Filtech Mascarillas FFP3 10 Unidades | Certificado Europeo - CE 2163 | H
 
 ℹ️:
 
-- CONFIANZA y EFICACIA - Las mascarilla FFP3 F890de Filtech es utilizada en los principales hospitales de España.
-- EMPRESA ESPAÑOLA y ENVÍO DESDE ESPAÑA
-- HOMOLOGADA - Cumple la norma EN 149:2001 + A1:2009 y CE de conformidad con el Reglamento Europeo de Equipos de Protección Individual (EU) 2016/425.
-- CALIDAD - Máxima protección >99% Filtración. Filtech es marca líder en Europa.
-- CONFORTABILIDAD - Bandas de sujeción superior e Inferior Regulables - Mejor Ajuste - Mayor sello facial
-- Talla ADULTO - Color BLANCO - NR Desechables - Cantidad total 10 mascarillas
-- HIPOALERGÉNICAS - Dermatológicamente testadas
 - CONFORTABILIDAD - Clip nasal de Doble Núcleo - Mejor Ajuste - Mayor sello facial - Almohadilla Nasal interna - Mayor confortabilidad
+- Talla ADULTO - Color BLANCO - NR Desechables - Cantidad total 10 mascarillas
+- CALIDAD - Máxima protección >99% Filtración. Filtech es marca líder en Europa.
 - EMBALAJE - Instrucciones y etiquetado en Español - 10 Sobre herméticos unitarios con clip de cierre
+- CONFIANZA y EFICACIA - Las mascarilla FFP3 F890de Filtech es utilizada en los principales hospitales de España.
+- HOMOLOGADA - Cumple la norma EN 149:2001 + A1:2009 y CE de conformidad con el Reglamento Europeo de Equipos de Protección Individual (EU) 2016/425.
+- HIPOALERGÉNICAS - Dermatológicamente testadas
+- EMPRESA ESPAÑOLA y ENVÍO DESDE ESPAÑA
+- CONFORTABILIDAD - Bandas de sujeción superior e Inferior Regulables - Mejor Ajuste - Mayor sello facial
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08RN8T15K/?tag=tolees-21)
