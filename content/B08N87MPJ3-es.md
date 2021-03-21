@@ -28,10 +28,10 @@ En este momento está [ZooBoo - 20x Respirador FFP3 Mascarilla de protección co
 
 🔎:
 
-- Certificado de acuerdo con la Directiva de la UE EN149:2001+A1:2009 NR por un centro de pruebas acreditado con sede en la Unión Europea | CE 1463
 - FFP3 Standard - El nivel de filtro más alto de la Unión Europea. Filtra al menos el 99% de las partículas de 0,6µ de diámetro. Dado que esta máscara no requiere una válvula adicional, puede ser utilizada en cualquier lugar, porque el usuario y el medio ambiente están protegidos al mismo tiempo
-- Cada máscara está empaquetada higiénicamente de forma individual y se ha comprobado su calidad
-- Sin látex y sin goma natural
+- Certificado de acuerdo con la Directiva de la UE EN149:2001+A1:2009 NR por un centro de pruebas acreditado con sede en la Unión Europea | CE 1463
 - Práctica caja con 20 piezas e instrucciones en varios idiomas, incluyendo el español
+- Sin látex y sin goma natural
+- Cada máscara está empaquetada higiénicamente de forma individual y se ha comprobado su calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08N87MPJ3/?tag=tolees-21)

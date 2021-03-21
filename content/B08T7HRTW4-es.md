@@ -29,9 +29,9 @@ Tienes [IDOIT Mascarillas ffp2 filtro Certificado CE y EN 149:2001+A1:2009 masca
 🔎:
 
 - FFP2 homologadas diseño de clip nasal suave y ajustable incorporado brinda comodidad y seguridad al ajustarse firmemente a la cara
+- No se recomienda reutilizar las máscaras de filtro desechables FFP2. Se recomienda cambiar cada 4 horas en un lugar con mucha gente
 - La mascarilla FFP2 puede ajustar el puente de la nariz, que se adapta mejor a la cara. Cada caja se entrega con 2 cordones de oreja elásticos ajustables para reducir la sensación de estrangulación y hacerla más cómoda de llevar.
 - Probado y certificado por la CE según la norma EN 149: 2001 + A1: 2009; Reglamento (UE) 2016/425 para equipos de protección personal
-- No se recomienda reutilizar las máscaras de filtro desechables FFP2. Se recomienda cambiar cada 4 horas en un lugar con mucha gente
 - Mascarillas ffp2 con sistema de filtración de cinco capas la primera capa de tela no tejida, la segunda capa de tela soplada por fusión de electret de agua, la tercera capa de fusión de electret eléctrica soplada en tierra, la cuarta capa de algodón de aire caliente y la quinta capa de tela no tejida Tasa> 95%
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08T7HRTW4/?tag=tolees-21)
