@@ -28,12 +28,12 @@ Está [WottoCare Mascarillas FFP3 NR CE 2163  20 unidades en bolsa individual ci
 
 ℹ️:
 
-- Talla adulto estándar, unisex.
-- Máxima Protección, gracias a su alta capacidad de filtración bacteriana del 99% garantiza una mayor seguridad en su uso.
 - Packaging: Las mascarillas WottoCare vienen embolsadas individualmente en una bolsa sellada con cierre grip. Esta bolsa puede utilizarse para guardar la mascarilla cuando no se use, garantizando así la higiene.
-- Las mascarillas WottoCare cumplen con todos los estándares de calidad y seguridad. Ensayadas y con marcado CE según norma europea EN 149:2001+A1:2009 de mascarillas auto filtrantes para partículas.
 - Mascarillas compuestas por 5 capas: 2 capas exteriores de non woven. 2 capas de melt blown. 1 capa hot air cotton
+- Talla adulto estándar, unisex.
+- Las mascarillas WottoCare cumplen con todos los estándares de calidad y seguridad. Ensayadas y con marcado CE según norma europea EN 149:2001+A1:2009 de mascarillas auto filtrantes para partículas.
 - Cómo usar las mascarillas FFP3: Con las manos limpias sujete la mascarilla con la palma de la mano con los dedos índice y pulgar por encima del puente metálico superior. Sujete las bandas elásticas en la parte posterior de ambas orejas y acomode hasta encontrar una postura cómoda. Cubra la mascarilla y respire normalmente. Si siente que el aire filtra por los laterales de la nariz o por la parte inferior de la mandíbula, recoloque y ajuste el puente metálico hasta lograr la posición correcta.
+- Máxima Protección, gracias a su alta capacidad de filtración bacteriana del 99% garantiza una mayor seguridad en su uso.
 - Duración máxima 48 horas, se recomienda un uso máximo continuado de hasta 4 horas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WBXT1FY/?tag=tolees-21)
