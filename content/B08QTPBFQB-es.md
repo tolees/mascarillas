@@ -28,10 +28,10 @@ En este momento está [PAIDE P - Mascarillas FFP2 Infantiles Niños  Desechables
 
 🔎:
 
-- Lote de 10 unidades. Infantiles Niños.
-- TIEMPO DE USO. Las no reutilizables, deben ser retiradas después de su tiempo recomendado de uso. Por cuestiones de comodidad e higiene, se suele recomendar no usar las mascarillas más de 8 horas seguidas. En caso de que se humedezca o se deteriore por el uso, se recomienda sustituirla por otra.
-- MULTIPLES USOS - Adecuado para uso general, trabajadores de oficina, personal de laboratorio, camareros o dependientes de tienda. Ideal para lugares concurridos, salidas diarias, temporada de polen, ciclismo, carrera, ciclismo o actividades al aire libre.
 - ESPECIFICACIONES. Cumple con las especificaciones europeas de mascarillas EN149:2001+AL: 2009.
+- TIEMPO DE USO. Las no reutilizables, deben ser retiradas después de su tiempo recomendado de uso. Por cuestiones de comodidad e higiene, se suele recomendar no usar las mascarillas más de 8 horas seguidas. En caso de que se humedezca o se deteriore por el uso, se recomienda sustituirla por otra.
 - MÁXIMA PROTECCIÓN. Mascarillas FFP2 de un sólo uso, no reutilizables . 5 capas, transpirables , cómodo y fácil de llevar.
+- MULTIPLES USOS - Adecuado para uso general, trabajadores de oficina, personal de laboratorio, camareros o dependientes de tienda. Ideal para lugares concurridos, salidas diarias, temporada de polen, ciclismo, carrera, ciclismo o actividades al aire libre.
+- Lote de 10 unidades. Infantiles Niños.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QTPBFQB/?tag=tolees-21)
