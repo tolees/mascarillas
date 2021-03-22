@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ENERGY FUSION Mascarilla FFP2 Negra Ultr al 14.29 % de descuento'
-date: 2021-03-21 02:41:38
+date: 2021-03-22 14:41:51
 image: 'https://m.media-amazon.com/images/I/51p2FFlVF0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [ENERGY FUSION Mascarilla FFP2 Negra Ultra Proteccion  Homologada  Certifi
 
 ℹ️:
 
-- Contiene: 25 Mascarillas FFP2 negras , Homologadas CE0370
-- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado nº. 2163, con marcado CE.
 - COMPOSICIÓN. 5 capas compuestas de tela no tejida spunbord: Polipropileno hidrófobo, tela no tejida spunlace: polipropileno. Está compuesta por el cuerpo, las cintas elásticas y la pinza nasal.
-- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable
 - Evitan irritaciones en la piel y son hipoalergénicas. Están diseñadas con 5 capas interiores duraderas y resistentes a la deformación que combinan tejido de No woven y algodón suave de alta calidad.
+- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado nº. 2163, con marcado CE.
+- Contiene: 25 Mascarillas FFP2 negras , Homologadas CE0370
+- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R7K76PT/?tag=tolees-21)
