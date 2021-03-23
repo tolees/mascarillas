@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Las Ofertas de la Tele - Mascarillas FFP con un 12.84 % de descuento'
+date: 2021-03-23 09:13:37
+image: 'https://m.media-amazon.com/images/I/41XiVqhPjBL._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08VDBVCVZ-es Las Ofertas de la Tele - Mascarillas FFP3 Con certificado...'
+sku: 'B08VDBVCVZ-es'
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','ffp3','las ofertas de la tele', ]
+actualPrice: 9.5 EUR
+currency: EUR
+price: 9.5
+comparePrice: 10.9 EUR
+prodname: 'Las Ofertas de la Tele - Mascarillas FFP3 Con certificado CE 2163 Adultos. 5 capas. 99% de filtración. Sujeción y respirabilidad máxima. Pack de 2 unidades.'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Las Ofertas de la Tele'
+buyurl: 'https://www.amazon.es/dp/B08VDBVCVZ/?tag=tolees-21'
+descuento: '12.84'
+average: '9.5'
+---
+
+En este momento está [Las Ofertas de la Tele - Mascarillas FFP3 Con certificado CE 2163 Adultos. 5 capas. 99% de filtración. Sujeción y respirabilidad máxima. Pack de 2 unidades.](https://www.amazon.es/dp/B08VDBVCVZ/?tag=tolees-21) a 9.5 EUR (original: 10.9 EUR) (12.84 %  de descuento) en el siguiente enlace!
+
+[![Las Ofertas de la Tele - Mascarillas FFP](https://m.media-amazon.com/images/I/41XiVqhPjBL._SL400_.jpg)](https://www.amazon.es/dp/B08VDBVCVZ/?tag=tolees-21)
+
+🔎:
+
+- Con puente nasal acolchado y correa de sujeción regulable para un ajuste perfecto a la cara.
+- Fabricada en polipropileno con una densidad de 75 g/m2.
+- No agobian.
+- No reutilizable. Talla única.
+- No es una KN95, es una FFP3 como las utilizadas en las UCIs.
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B08VDBVCVZ/?tag=tolees-21)

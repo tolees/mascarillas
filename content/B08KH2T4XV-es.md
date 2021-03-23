@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'CRAZYCHIC - Mascarilla FFP2 Homologada C al 20.02 % de rebaja'
-date: 2021-03-22 07:38:30
+title: 'CRAZYCHIC - Mascarilla FFP2 Homologada C al 11.12 % de rebaja'
+date: 2021-03-23 08:15:12
 image: 'https://m.media-amazon.com/images/I/41u1gmHITkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,26 +12,26 @@ tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascar
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
-comparePrice: 9.99 EUR
+comparePrice: 8.99 EUR
 prodname: 'CRAZYCHIC - Mascarilla FFP2 Homologada Certificada CE EN149 - Mascarilla de Protección Respiratoria - Protectora Respirador Antipolvo - 5 Capas Alta Filtración - Entrega Rápida - Paquete de 10 Piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'CRAZYCHIC'
 buyurl: 'https://www.amazon.es/dp/B08KH2T4XV/?tag=tolees-21'
-descuento: '20.02'
-average: '8.74235294117646'
+descuento: '11.12'
+average: '8.66315789473684'
 ---
 
-Tienes [CRAZYCHIC - Mascarilla FFP2 Homologada Certificada CE EN149 - Mascarilla de Protección Respiratoria - Protectora Respirador Antipolvo - 5 Capas Alta Filtración - Entrega Rápida - Paquete de 10 Piezas](https://www.amazon.es/dp/B08KH2T4XV/?tag=tolees-21) con precio final de  7.99 EUR (original: 9.99 EUR) (20.02 %  de rebaja) aqui!
+Tienes [CRAZYCHIC - Mascarilla FFP2 Homologada Certificada CE EN149 - Mascarilla de Protección Respiratoria - Protectora Respirador Antipolvo - 5 Capas Alta Filtración - Entrega Rápida - Paquete de 10 Piezas](https://www.amazon.es/dp/B08KH2T4XV/?tag=tolees-21) con precio final de  7.99 EUR (original: 8.99 EUR) (11.12 %  de rebaja) aqui!
 
 [![CRAZYCHIC - Mascarilla FFP2 Homologada C](https://m.media-amazon.com/images/I/41u1gmHITkL._SL400_.jpg)](https://www.amazon.es/dp/B08KH2T4XV/?tag=tolees-21)
 
 🔎:
 
 - ENTREGA RÁPIDA: Stock disponible en Francia.
-- MATERIAL: 5 capas de filtro. Clip de nariz de metal. Fijación auricular elástica.
-- CERTIFICACIÓN CE: Probado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascarilla desechable no reutilizable. Alta filtración.
 - EMBALAJE: 1 paquete de 10 piezas envasadas individualmente. Embalaje e instrucciones en francés.
 - MARCA REGISTRADA: CRAZYCHIC. Solo los productos vendidos por CRAZYCHIC se ajustan a la descripción. Los productos vendidos por otros vendedores (como MAGIC TALAVERA SHOP CENTER) son falsificaciones. DESIGN: Máscara de protección respiratoria FFP2. Filtrando media mascarilla contra las partículas.
+- CERTIFICACIÓN CE: Probado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascarilla desechable no reutilizable. Alta filtración.
+- MATERIAL: 5 capas de filtro. Clip de nariz de metal. Fijación auricular elástica.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KH2T4XV/?tag=tolees-21)
