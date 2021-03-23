@@ -28,10 +28,10 @@ Tienes [PAULA ALONSO PA - Mascarilla Respiratoria FFP3 HOMOLOGADA CE 2163 - EN 1
 
 ℹ️:
 
-- RECOMENDACIONES: almacenar en el embalaje original lejos de áreas contaminadas, polvo, luz solar y fuego.
-- ÁMBITO DE APLICACIÓN: Es aplicable para proteger contra partículas excepto para fines de escape, y solo se aplica para protección personal. Confortable y suave, con 5 capas de filtrado, resistencia a aerosoles y clip ajustable a la nariz.
-- ESPECIFICACIONES: Homologadas EN149:2001+A1:2009 FFP3 NR no reutilizable y con marcado CE.
 - MASCARILLAS FFP3 ULTRA PLUS. Con eficacia de filtración ≥ 98%. Mascarilla FFP3 que cuenta con detalle interior acolchado ajustable a la nariz. Para adultos. Sin válvula.
+- RECOMENDACIONES: almacenar en el embalaje original lejos de áreas contaminadas, polvo, luz solar y fuego.
+- ESPECIFICACIONES: Homologadas EN149:2001+A1:2009 FFP3 NR no reutilizable y con marcado CE.
 - COMPOSICIÓN: 5 Capas. 43% non-Woven, 29% meltblown, 28% algodón, clip metálico para nariz.
+- ÁMBITO DE APLICACIÓN: Es aplicable para proteger contra partículas excepto para fines de escape, y solo se aplica para protección personal. Confortable y suave, con 5 capas de filtrado, resistencia a aerosoles y clip ajustable a la nariz.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08PYV3SX5/?tag=tolees-21)
