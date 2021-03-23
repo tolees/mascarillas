@@ -29,9 +29,9 @@ Tienes [MVT - 10x Mascarillas FFP2 NR Homologadas y Certificadas CE - Surtido de
 🔎:
 
 - Homologadas y Certificadas CE según la normativa europea
-- Caja de 10 mascarillas FFP2 NR de colores surtidos
-- Bandas elásticas sin látex
 - Alta eficacia de autofiltrado > 95%
+- Bandas elásticas sin látex
 - Periodo recomendado de uso del fabricante 24 horas
+- Caja de 10 mascarillas FFP2 NR de colores surtidos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VWLQ14P/?tag=tolees-21)
