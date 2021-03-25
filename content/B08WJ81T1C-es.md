@@ -29,9 +29,9 @@ Está [Sky Screen Mascarillas FFP2 Mascarillas Desechables Con Orejeras y gancho
 ℹ️:
 
 - Cada caja incluye máscarillas FFP2 individualizadas para mayor higiene
-- Con gancho ajustador para mayor fijación y comodidad.
-- Incluyen una parte reforzada, cómoda y suave en la zona de la nariz en forma de V para un ajuste óptimo.
 - 30 uds Mascarillas FFP2 blancas homologadas con 5 capas que ofrecen un filtrado de más del 95% de las partículas en suspensión.
 - ESPECIFICACIONES: Capacidad filtración mayor o igual al 95%. Homologadas EN149:2001+A1:2009
+- Incluyen una parte reforzada, cómoda y suave en la zona de la nariz en forma de V para un ajuste óptimo.
+- Con gancho ajustador para mayor fijación y comodidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WJ81T1C/?tag=tolees-21)
