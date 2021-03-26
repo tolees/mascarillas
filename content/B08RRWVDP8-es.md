@@ -28,10 +28,10 @@ En este momento está [blackpoolal FFP2 CE 2163  Mascarilla de Protección Respi
 
 🔎:
 
-- ✅CERTIFICACIÓN CE 2163: Aprobado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascarilla desechable no reutilizable. Alta filtración.
 - ✅EMBALAJE: Termosellada en bolsas individuales. 20 piezas por caja.
-- ✅MATERIAL: Material 5 capas. 2 capas exteriores de non woven. 2 capas de melt blown. 1 capa hot air cotton Clip de nariz de metal. Fijación auricular elástica.
-- ✅Solo los productos vendidos por OLIVIA DESIGN se ajustan a la descripción. Los productos vendidos por otros vendedores (son falsificaciones)
 - ✅Stock en España, entrega inmediata.
+- ✅Solo los productos vendidos por OLIVIA DESIGN se ajustan a la descripción. Los productos vendidos por otros vendedores (son falsificaciones)
+- ✅MATERIAL: Material 5 capas. 2 capas exteriores de non woven. 2 capas de melt blown. 1 capa hot air cotton Clip de nariz de metal. Fijación auricular elástica.
+- ✅CERTIFICACIÓN CE 2163: Aprobado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascarilla desechable no reutilizable. Alta filtración.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RRWVDP8/?tag=tolees-21)
