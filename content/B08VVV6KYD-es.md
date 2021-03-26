@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'KDOD Mascarillas FFP2 Homologadas  20 Un al 7.15 % de descuento'
-date: 2021-03-24 01:35:20
+date: 2021-03-26 18:05:38
 image: 'https://m.media-amazon.com/images/I/41PfCm4XTML._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08VVV6KYD-es KDOD Mascarillas FFP2 Homologadas 20 Unidades CE2163 EN...'
 sku: 'B08VVV6KYD-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','ffp2','kdod', ]
+tags: [ 'Mascarillas de tela','Mascarillas de tela y accesorios','Salud y cuidado personal','Suministros y equipamiento médico','ffp2','kdod', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99
@@ -28,11 +28,11 @@ Está [KDOD Mascarillas FFP2 Homologadas  20 Unidades  CE2163 EN 149:2001 + A1:2
 
 ℹ️:
 
-- Solmira es el distribuidor exclusivo de KDOD Mascarilla FFP2 en la UE
-- ¡¡¡EL ENVÍO SOLO GESTIONA POR AMAZON!!!
 - ¡¡¡OJO!!! Cuidado con las falsificaciones.
-- Estas mascarillas con marcado CE están consideradas como EQUIPO DE PROTECCIÓN INDIVIDUAL (EPI) de tal modo que cumplen todos los requisitos en el sentido del Reglamento (UE) 2016/425.
-- Mascarilla autofiltrante, cumple con la normativa EN 149:2001 + A1:2009. Macado CE 2163.
 - Ofrece protección respiratoria a través de su filtro con eficacia de filtración mínima ≥94%, alta calidad y rendimiento.
+- Estas mascarillas con marcado CE están consideradas como EQUIPO DE PROTECCIÓN INDIVIDUAL (EPI) de tal modo que cumplen todos los requisitos en el sentido del Reglamento (UE) 2016/425.
+- Solmira es el distribuidor exclusivo de KDOD Mascarilla FFP2 en la UE
+- Mascarilla autofiltrante, cumple con la normativa EN 149:2001 + A1:2009. Macado CE 2163.
+- ¡¡¡EL ENVÍO SOLO GESTIONA POR AMAZON!!!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VVV6KYD/?tag=tolees-21)
