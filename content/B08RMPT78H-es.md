@@ -28,13 +28,13 @@ En este momento está [Filtech Mascarilla FFP2 modelo F861- Certificado Europeo 
 
 🔎:
 
-- HOMOLOGADA - Cumple la norma EN 149:2001 + A1:2009 y CE de conformidad con el Reglamento Europeo de Equipos de Protección Individual (EU) 2016/425.
-- CONFIANZA y EFICACIA - Las mascarilla FFP2 F861de Filtech es utilizada en los principales hospitales de España.
-- CONFORTABILIDAD - Bandas de sujeción a orejas - No aprietan - Clip nasal ajustable interno
 - Talla ADULTO - Color BLANCO - NR Desechables - Cantidad total 20 mascarillas
+- EMBALAJE - Instrucciones y etiquetado en Español - 20 Sobre herméticos unitarios con clip de cierre
+- CONFORTABILIDAD - Bandas de sujeción a orejas - No aprietan - Clip nasal ajustable interno
 - HIPOALERGÉNICAS - Dermatológicamente testadas
 - CALIDAD - Máxima protección >96% Filtración. Filtech es marca líder en Europa.
-- EMBALAJE - Instrucciones y etiquetado en Español - 20 Sobre herméticos unitarios con clip de cierre
+- HOMOLOGADA - Cumple la norma EN 149:2001 + A1:2009 y CE de conformidad con el Reglamento Europeo de Equipos de Protección Individual (EU) 2016/425.
 - EMPRESA ESPAÑOLA y ENVÍO DESDE ESPAÑA
+- CONFIANZA y EFICACIA - Las mascarilla FFP2 F861de Filtech es utilizada en los principales hospitales de España.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RMPT78H/?tag=tolees-21)
