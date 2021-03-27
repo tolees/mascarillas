@@ -28,10 +28,10 @@ Tienes [Maskgreen - Mascarilla FFP2 Homologada - Caja 50 Mascarillas de protecci
 
 ℹ️:
 
-- ✔ FABRICADAS EN ESPAÑA Y CON CERTIFICADO EUROPEO (CE) EN149:2001 + A1:2009 (MODULOS B + C2): Las mascarillas FFP2 de MaskGreen son producto español, son mascarillas murcianas. Garantizamos la calidad del producto porque han aprobado con éxito los exigentes test de Aitex. Barrera de hasta el 97% gracias a sus 5 capas de filtros.
 - ✔ COMODIDAD ASEGURADA: La respirabilidad de las mascarillas MaskGreen es fantástica, así como la comodidad gracias a su buen ajuste.
-- ✔ MASCARILLAS FFP2 HOMOLOGADAS MASKGREEN A 0,85€/UD: Las mascarillas FFP2 con certificado AITEX preferidas por los sanitarios de la Región de Murcia por menos de 1 euro, IVA y envío incluidos.
 - ✔ CAJA DE 50 MASCARILLAS FFP2 MASKGREEN: Embolsadas individualmente para una mayor higiene y protección.
+- ✔ FABRICADAS EN ESPAÑA Y CON CERTIFICADO EUROPEO (CE) EN149:2001 + A1:2009 (MODULOS B + C2): Las mascarillas FFP2 de MaskGreen son producto español, son mascarillas murcianas. Garantizamos la calidad del producto porque han aprobado con éxito los exigentes test de Aitex. Barrera de hasta el 97% gracias a sus 5 capas de filtros.
 - *IMPORTANTE: MASKGREEN es el único distribuidor oficial de las mascarillas Maskgreen. Cuidado con las falsificaciones de otros vendedores. El envío sólo lo gestiona Amazon.
+- ✔ MASCARILLAS FFP2 HOMOLOGADAS MASKGREEN A 0,85€/UD: Las mascarillas FFP2 con certificado AITEX preferidas por los sanitarios de la Región de Murcia por menos de 1 euro, IVA y envío incluidos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08WX85XGB/?tag=tolees-21)

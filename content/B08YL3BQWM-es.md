@@ -29,8 +29,8 @@ En este momento está [Club Náutico 50 UNIDADES PACK 2 COLORES 25x2 Mascarilla 
 🔎:
 
 - Excelente Transpirabilidad. Cómodas correas para los oídos. Tamaño 105x155mm plegada. Se sirve en cajas de 25 unidades
-- Mascarilla ultra protección FFP2 color Negro. Marcaje CE y EN 149:2001 +A1:2009.
 - PACK 50 UNIDADES (25 GRIS + 25 AZUL)
+- Mascarilla ultra protección FFP2 color Negro. Marcaje CE y EN 149:2001 +A1:2009.
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable. No contiene Látex.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YL3BQWM/?tag=tolees-21)
