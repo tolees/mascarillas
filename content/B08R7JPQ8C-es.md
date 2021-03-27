@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ENERGY FUSION Mascarilla FFP2 Azul Ultra con un 14.29 % de descuento'
-date: 2021-03-26 02:59:10
+date: 2021-03-27 07:34:42
 image: 'https://m.media-amazon.com/images/I/516TfZidzhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [ENERGY FUSION Mascarilla FFP2 Azul Ultra Proteccion  Homo
 🔎:
 
 - Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado nº. 0370, con marcado CE.
-- COMPOSICIÓN. 5 capas compuestas de tela no tejida spunbord: Polipropileno hidrófobo, tela no tejida spunlace: polipropileno. Está compuesta por el cuerpo, las cintas elásticas y la pinza nasal.
 - Evitan irritaciones en la piel y son hipoalergénicas. Están diseñadas con 5 capas interiores duraderas y resistentes a la deformación que combinan tejido de No woven y algodón suave de alta calidad.
 - Contiene: 25 Mascarillas FFP2 azules, Homologadas CE0370
+- COMPOSICIÓN. 5 capas compuestas de tela no tejida spunbord: Polipropileno hidrófobo, tela no tejida spunlace: polipropileno. Está compuesta por el cuerpo, las cintas elásticas y la pinza nasal.
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08R7JPQ8C/?tag=tolees-21)
