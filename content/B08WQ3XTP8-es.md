@@ -31,7 +31,7 @@ En este momento está [Mascarilla Quirúrgica IBEROMASK Tipo IIR - COLOR ROSA - 
 - Cumplen Normativa : EN 14683:2019+AC:2019 Respirabilidad (Pa/cm2) <60. Presión de resistencia a salpicaduras (kPa) ≥ 16,0.
 - Alto poder filtración, con Eficacia de Filtración Bacteriana ≥98% (99,9% según el ensayo)
 - Exentas de látex. No irritante para la piel.
-- Caja de 50 unidades. Fabricadas en España
 - Filtro plano rectangular, con pliegues. Tiras de aluminio para su adaptación a la nariz.
+- Caja de 50 unidades. Fabricadas en España
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WQ3XTP8/?tag=tolees-21)
