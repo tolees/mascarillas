@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 24.84 % en Filtech Mascarillas FFP3 - 10 Unidades |'
-date: 2021-03-28 08:58:06
+date: 2021-03-29 21:26:53
 image: 'https://m.media-amazon.com/images/I/316VFpehbUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Filtech'
 buyurl: 'https://www.amazon.es/dp/B08RN8T15K/?tag=tolees-21'
 descuento: '24.84'
-average: '31.2566666666666'
+average: '31.1076470588234'
 ---
 
 Tienes [Filtech Mascarillas FFP3 - 10 Unidades | TALLA L |Certificado Europeo - CE 2163 | Homologada | 6 Capas de protección | >99% Filtración | NR Desechables | Color Blanco](https://www.amazon.es/dp/B08RN8T15K/?tag=tolees-21) con un 24.84 % de descuento con precio de oferta de 29.99 EUR (original: 39.9 EUR) en el siguiente enlace!
