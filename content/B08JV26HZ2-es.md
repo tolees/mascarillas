@@ -28,10 +28,10 @@ Ahora mismo tienes [BESTEK Mascarillas FFP2 NR Certificado por SGS y Applus+ CE 
 
 🔎:
 
-- ✔Mascarilla Segura - La mascarilla es fabricada por la fábrica con calificación de conformidad, más segura y confiable
-- ✔Mascarillas FFP2 NR - Clase FFP2 NR, sistema de filtro de 5 capas, la mascarilla puede filtrar al menos el 95% de partículas como polvo, humo y partículas de aerosol en el aire
 - ✔Máxima Comodidad - El ajuste facial óptimo, la forma de V con contorno de la nariz y el elástico suave para las orejas proporcionan una gran comodidad de uso y garantizan un ajuste perfecto
+- ✔Mascarillas FFP2 NR - Clase FFP2 NR, sistema de filtro de 5 capas, la mascarilla puede filtrar al menos el 95% de partículas como polvo, humo y partículas de aerosol en el aire
 - ✔Paquete de 20 Piezas - El paquete contiene 20 piezas de mascarillas FFP2
+- ✔Mascarilla Segura - La mascarilla es fabricada por la fábrica con calificación de conformidad, más segura y confiable
 - ✔Mascarillas Certificado CE - La mascarilla está probada y certificada por SGS y Applus+, cumple con la norma EN 149: 2001 + A1: 2009; cumple con el REGLAMENTO (UE) 2016/425 SOBRE LOS EQUIPOS DE PROTECCIÓN INDIVIDUAL
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JV26HZ2/?tag=tolees-21)
