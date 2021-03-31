@@ -28,9 +28,9 @@ Está [Club Náutico 25 UD. MASCARILLAS ROSAS FFP2 + ESTUCHE - Homologada CE y E
 
 ℹ️:
 
-- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable. No contiene Látex.
-- Incluye 1 estuche portamascarillas de regalo con cada pedido.
 - Mascarilla ultra protección FFP2 color ROSA. Marcaje CE y EN 149:2001 +A1:2009.
+- Incluye 1 estuche portamascarillas de regalo con cada pedido.
 - Excelente Transpirabilidad. Cómodas correas para los oídos. Tamaño 105x155mm plegada. Se sirve en cajas de 25 unidades
+- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable. No contiene Látex.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08XVT6GVD/?tag=tolees-21)
