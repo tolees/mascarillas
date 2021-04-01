@@ -28,10 +28,10 @@ Está [Desconocido - Mascarilla FFP2 Homologada Certificado CE 2834-5 capas - Ca
 
 ℹ️:
 
-- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable.No contiene Látex.
 - 5 Capas. 43% Non-Woven (2 Capas)/ 28,5% Meltblown (2 Capas)/ 28,5% Algodón (1 Capa)
-- SOLO EL VENDEDOR -PUBLIMER- ES QUIEN COMERCIALIZA LA MARCA PROAIR - COMPRAR A VENDEDORES EXTERNOS SUPONE EL ENVIO DE OTRAS MARCAS EXTERNAS A LA NUESTRA - CAJA EXPOSITOR DE 50 UNIDADES. Mascarilla Protectora FFP2 NR PROAIR según la Norma Europea EN 149:2001+A1:2009 por organismo notificado, con marcado CE.
 - Con doble protección, tanto para el portador de la mascarilla como para las personas del entorno. Fabricación de 5 capas y acabado termosellado, incluyendo bandas elásticas de fijación a juego, pinza adaptable en nariz para un firme ajuste y AJUSTADOR CRANEAL. Presentada en BOLSA INDIVIDUAL, con manual de instrucciones en español e inglés.
+- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable.No contiene Látex.
+- SOLO EL VENDEDOR -PUBLIMER- ES QUIEN COMERCIALIZA LA MARCA PROAIR - COMPRAR A VENDEDORES EXTERNOS SUPONE EL ENVIO DE OTRAS MARCAS EXTERNAS A LA NUESTRA - CAJA EXPOSITOR DE 50 UNIDADES. Mascarilla Protectora FFP2 NR PROAIR según la Norma Europea EN 149:2001+A1:2009 por organismo notificado, con marcado CE.
 - Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado, con marcado CE.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V3B21BP/?tag=tolees-21)
