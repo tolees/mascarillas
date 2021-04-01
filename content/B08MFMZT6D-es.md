@@ -28,9 +28,9 @@ Está [YIDA FFP2 Adult Masken  Einweg  5 Schichten  Farbe Schwarz  C1 ](https://
 
 ℹ️:
 
-- SPEZIFIKATIONEN. Erfüllt die europäischen Maskenspezifikationen CE EN149: 2001 + AL: 2009.
 - MEHRFACHE VERWENDUNG - Geeignet für den allgemeinen Gebrauch, Büroangestellte, Laborpersonal, Kellner oder Verkäufer. Ideal für geschäftige Orte, tägliche Ausflüge, Pollensaison, Radfahren, Laufen, Radfahren oder Outdoor-Aktivitäten.
 - MAXIMALER SCHUTZ. Einmal wiederverwendbare, nicht wiederverwendbare FFP2-Masken. 5 Schichten, atmungsaktiv, bequem und leicht zu tragen.
+- SPEZIFIKATIONEN. Erfüllt die europäischen Maskenspezifikationen CE EN149: 2001 + AL: 2009.
 - Lot von 20,40,60 Einheiten förderfähig
 - ZEIT NUTZEN. Nicht wiederverwendbare müssen nach der empfohlenen Verwendungszeit entfernt werden. Aus Gründen des Komforts und der Hygiene wird normalerweise empfohlen, die Masken nicht länger als 8 Stunden hintereinander zu verwenden. Für den Fall, dass es feucht wird oder sich durch den Gebrauch verschlechtert, wird empfohlen, es durch ein anderes zu ersetzen.
 
