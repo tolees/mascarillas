@@ -28,10 +28,10 @@ Está [CRAZYCHIC - Mascarilla FFP2 Negra Homologada Certificada CE EN149 - Masca
 
 ℹ️:
 
+- DESIGN: Máscara de protección respiratoria FFP2. Color negro. Filtrando media mascarilla contra las partículas.
+- EMBALAJE: 1 paquete de 10 piezas envasadas individualmente. Embalaje e instrucciones en francés.
 - MATERIAL: 5 capas de filtro. Clip de nariz de metal. Fijación auricular elástica.
 - CERTIFICACIÓN CE: Probado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascarilla desechable no reutilizable. Alta filtración.
-- EMBALAJE: 1 paquete de 10 piezas envasadas individualmente. Embalaje e instrucciones en francés.
-- DESIGN: Máscara de protección respiratoria FFP2. Color negro. Filtrando media mascarilla contra las partículas.
 - ENTREGA RÁPIDA: Stock disponible en España.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R6CTHNK/?tag=tolees-21)

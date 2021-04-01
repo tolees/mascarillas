@@ -29,9 +29,9 @@ Está [konjac 30piezas Mascarillas FFP2 homologadas CE 2163 Cinco capas Mascaril
 ℹ️:
 
 - No reutilizables. En caso de que se humedezca o se deteriore por el uso, se recomienda sustituirla por otra. Se suele recomendar no usar las mascarillas mas de 8 horas seguidas.
-- Certificación CE2163: Aprobado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Alta filtración. Cumple con los requisitos de UE 2016/425
-- Solo compra en konjac Health para evitar falsificaciones
 - Estructura de composición: Material de las 5 capas(2 capas exteriores de non woven. 2 capas de melt blown. 1 capa hot air cotton), Clip de nariz de metal. Fijación auricular elástica.
+- Certificación CE2163: Aprobado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Alta filtración. Cumple con los requisitos de UE 2016/425
 - Con Salvaorejas: Cada caja de mascarillas ffp2 konjac está empaquetada individualmente. Lleva protector de orejas, es muy útiles para aliviar las marcas y la presión de la mascarilla sobre las orejas.
+- Solo compra en konjac Health para evitar falsificaciones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VD9XG1Z/?tag=tolees-21)
