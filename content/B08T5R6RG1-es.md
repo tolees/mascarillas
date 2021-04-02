@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'KKmier Mascarillas FFP2 Homologadas  Mas al 20.01 % de descuento'
-date: 2021-04-01 18:51:40
+title: 'KKmier Mascarillas FFP2 Homologadas  Mas al 5.00 % de descuento'
+date: 2021-04-02 22:35:20
 image: 'https://m.media-amazon.com/images/I/415GHMFDo0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08T5R6RG1-es KKmier Mascarillas FFP2 Homologadas Mascarilla 20 Pack...'
 sku: 'B08T5R6RG1-es'
 tags: [ 'Mascarillas de tela','Mascarillas de tela y accesorios','Salud y cuidado personal','Suministros y equipamiento médico','ffp2','kkmier','mascarilla', ]
-actualPrice: 19.99 EUR
+actualPrice: 18.99 EUR
 currency: EUR
-price: 19.99
-comparePrice: 24.99 EUR
+price: 18.99
+comparePrice: 19.99 EUR
 prodname: 'KKmier Mascarillas FFP2 Homologadas  Mascarilla  20 Pack  ffp2 con Pendientes Elásticos y Clip Nariz Adaptable  Protección de 5 capas y Filtración de Partículas  EFP  ≥95% [Certificada CE 2163]'
 country: 'es'
 flag: '🇪🇸'
 brand: 'KKmier'
 buyurl: 'https://www.amazon.es/dp/B08T5R6RG1/?tag=tolees-21'
-descuento: '20.01'
-average: '18.19'
+descuento: '5.00'
+average: '18.2627272727272'
 ---
 
-Está [KKmier Mascarillas FFP2 Homologadas  Mascarilla  20 Pack  ffp2 con Pendientes Elásticos y Clip Nariz Adaptable  Protección de 5 capas y Filtración de Partículas  EFP  ≥95% [Certificada CE 2163]](https://www.amazon.es/dp/B08T5R6RG1/?tag=tolees-21) con 20.01 de descuento por 19.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [KKmier Mascarillas FFP2 Homologadas  Mascarilla  20 Pack  ffp2 con Pendientes Elásticos y Clip Nariz Adaptable  Protección de 5 capas y Filtración de Partículas  EFP  ≥95% [Certificada CE 2163]](https://www.amazon.es/dp/B08T5R6RG1/?tag=tolees-21) con 5.00 de descuento por 18.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![KKmier Mascarillas FFP2 Homologadas  Mas](https://m.media-amazon.com/images/I/415GHMFDo0L._SL400_.jpg)](https://www.amazon.es/dp/B08T5R6RG1/?tag=tolees-21)
 
