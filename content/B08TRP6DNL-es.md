@@ -28,9 +28,9 @@ Está [DailySafe Mascarillas FFP2 Caja 30 Unidades. Certificado CE EN 149:2001](
 
 ℹ️:
 
-- Presión diferencial (ΔP) ΔP < 4.0 mm of H2O/cm2
 - Eficiencia de filtración bacteriana BFE @ 3.0 μm largeBacteria ≥ 99%
 - Resistencia a la exhalación A 160l/min a 2,6
+- Presión diferencial (ΔP) ΔP < 4.0 mm of H2O/cm2
 - Cumple con Normativa EN 149:2001 / + A1:2009
 - Resistencia a la inhalación A 95l/min del 1,65
 
