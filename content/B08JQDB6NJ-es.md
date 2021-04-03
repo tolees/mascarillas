@@ -28,10 +28,10 @@ Está [Mascarillas Quirúrgicas IIR  50 uds  Mobiclinic  Marca Española  Mascar
 
 ℹ️:
 
-- DISEÑO: el diseño de esta mascarilla desechable es plegable y compacto, de forma que su distribución y almacenamiento resulta cómodo y fácil.
-- ADAPTABLE: esta mascarilla desechable permite adaptarse a cualquier tipo de rostro, garantizando la máxima comodidad durante su utilización.
 - FUNCIÓN: la mascarilla quirúrgica IIR desechable sirve para ayudar a prevenir el contagio procedente de microorganismos presentes en gotículas respiratorias, al toser o estornudar.
-- PROTECCIÓN: La mascarilla tipo IIR triple capa en relación a su eficacia de filtración bacteriana. Tiene una eficacia de filtración bacteriana igual o superior al 98%. Además el tipo IIR tiene una función de resistencia a las salpicaduras de presión igual o superior al 16 kPa.
 - NORMATIVA: Mascarillas quirúrgicas fabricadas conforme a Directiva 93/42/CEE relativa a productos sanitarios siguiendo norma EN 14683:2019+AC:2019. Test Report homologado por SGS.
+- DISEÑO: el diseño de esta mascarilla desechable es plegable y compacto, de forma que su distribución y almacenamiento resulta cómodo y fácil.
+- PROTECCIÓN: La mascarilla tipo IIR triple capa en relación a su eficacia de filtración bacteriana. Tiene una eficacia de filtración bacteriana igual o superior al 98%. Además el tipo IIR tiene una función de resistencia a las salpicaduras de presión igual o superior al 16 kPa.
+- ADAPTABLE: esta mascarilla desechable permite adaptarse a cualquier tipo de rostro, garantizando la máxima comodidad durante su utilización.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08JQDB6NJ/?tag=tolees-21)
