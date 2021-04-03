@@ -29,9 +29,9 @@ Está [Gresonr Mascarillas Ffp2 con certificación CE 5 capas Mascarillas Ffp2 h
 ℹ️:
 
 - Cumple con el estándar: UNI EN 149: 2001 + A1: 2009 estándar
-- Dispositivo FFP2 y notificado en la base de datos del Certificado de Certificación Universal Nr 2163-PPE-1160
-- FFP2 o KN95 son máscaras que filtran al menos el 95% de las partículas que se encuentran en el aire. Material no estéril de 5 capas, Rendimiento: La capa interna garantiza las propiedades de filtrado y diferenciales de presión de la máscara, minimiza la dispersión de agentes infecciosos
 - Características: La capa en contacto con la piel es suave y no abrasiva. El elástico suave asegura que la máscara se adhiera firmemente a los lados de la cara del usuario con la máxima comodidad
+- Dispositivo FFP2 y notificado en la base de datos del Certificado de Certificación Universal Nr 2163-PPE-1160
 - El paquete incluye 20 máscaras, divididas en 1 paquete individual para cada máscara
+- FFP2 o KN95 son máscaras que filtran al menos el 95% de las partículas que se encuentran en el aire. Material no estéril de 5 capas, Rendimiento: La capa interna garantiza las propiedades de filtrado y diferenciales de presión de la máscara, minimiza la dispersión de agentes infecciosos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TKJBM1F/?tag=tolees-21)
