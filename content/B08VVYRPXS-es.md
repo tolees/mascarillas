@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELIOX Mascarilla FFP2 CE 2163  Mascarill con un 6.35 % de descuento'
-date: 2021-04-02 00:43:28
+date: 2021-04-03 05:09:52
 image: 'https://m.media-amazon.com/images/I/41JnTjlSctL._SL400_.jpg'
 comments: true
 category: ofertas
