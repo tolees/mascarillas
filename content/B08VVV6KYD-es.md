@@ -30,9 +30,9 @@ Está [KDOD Mascarillas FFP2 Homologadas  20 Unidades  CE2163 EN 149:2001 + A1:2
 
 - ¡¡¡EL ENVÍO SOLO GESTIONA POR AMAZON!!!
 - ¡¡¡OJO!!! Cuidado con las falsificaciones.
+- Mascarilla autofiltrante, cumple con la normativa EN 149:2001 + A1:2009. Macado CE 2163.
 - Ofrece protección respiratoria a través de su filtro con eficacia de filtración mínima ≥94%, alta calidad y rendimiento.
 - Estas mascarillas con marcado CE están consideradas como EQUIPO DE PROTECCIÓN INDIVIDUAL (EPI) de tal modo que cumplen todos los requisitos en el sentido del Reglamento (UE) 2016/425.
 - Solmira es el distribuidor exclusivo de KDOD Mascarilla FFP2 en la UE
-- Mascarilla autofiltrante, cumple con la normativa EN 149:2001 + A1:2009. Macado CE 2163.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VVV6KYD/?tag=tolees-21)
