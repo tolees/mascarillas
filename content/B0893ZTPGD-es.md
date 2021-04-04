@@ -29,11 +29,11 @@ En este momento está [Mascarilla FFP2 CE 0598 WottoCare  Mascarilla de Protecci
 🔎:
 
 - Mascarilla FPP2 CE 0598 Normativa EN149:2001+A1:2009 NR también Homologada como una KN95 bajo la normativa GB2626-2006
-- Contenido 20 unidades por caja. Bolsa de 2 unidades.
 - Packaging Presentado en bolsa con cierre de grip con dos unidades
-- Material 5 capas. 2 capas exteriores de non woven. 2 capas de melt blown. 1 capa hot air cotton
-- Capacidad Filtración superior al 95%. Ajuste con gomas elásticas. Ajuste nasal. Sin válvula.
 - Recomendaciones, Importante: Nunca tocar la mascarilla con las manos. Ponerla y quitarla por las gomas con las manos limpias.
+- Contenido 20 unidades por caja. Bolsa de 2 unidades.
+- Capacidad Filtración superior al 95%. Ajuste con gomas elásticas. Ajuste nasal. Sin válvula.
 - Unico Vendedor Oficial En Amazon, WottoCare
+- Material 5 capas. 2 capas exteriores de non woven. 2 capas de melt blown. 1 capa hot air cotton
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0893ZTPGD/?tag=tolees-21)
