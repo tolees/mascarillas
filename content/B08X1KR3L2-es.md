@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PAULA ALONSO PA - Mascarillas FFP2 + FFP al 8.34 % de descuento'
-date: 2021-04-03 05:17:54
+date: 2021-04-04 06:59:52
 image: 'https://m.media-amazon.com/images/I/51EM5QYCbyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PAULA ALONSO PA'
 buyurl: 'https://www.amazon.es/dp/B08X1KR3L2/?tag=tolees-21'
 descuento: '8.34'
-average: '58.4282608695652'
+average: '58.2833333333333'
 ---
 
 Ahora mismo tienes [PAULA ALONSO PA - Mascarillas FFP2 + FFP3 Homologadas Certificado CE - Negras. Bolsa individual. PACK PA: 50 FFP2 + 10 FFP3 REGALO](https://www.amazon.es/dp/B08X1KR3L2/?tag=tolees-21) a 54.95 EUR (original: 59.95 EUR) (8.34 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [PAULA ALONSO PA - Mascarillas FFP2 + FFP3 Homologadas Certif
 
 🔎:
 
-- CONTENIDO: PACK DE 50 MASCARILLAS FFP2 + 10 FFP3 EXTRA.
 - MASCARILLAS FFP2 ULTRAPROTECCIÓN: máxima protección. Recomendable un sólo uso, no reutilizable. Excelente transpirabilidad. Para adultos. Sin válvula. - ESPECIFICACIONES: Capacidad Filtración ≥ 94%. Homologadas EN149:2001+A1:2009 FFP2 NR y con certificado CE. - COMPOSICIÓN: 5 Capas. 50% Non-Woven (2 Capas)/ 50% Meltblown (3 Capas)
+- CONTENIDO: PACK DE 50 MASCARILLAS FFP2 + 10 FFP3 EXTRA.
 - FFP3: Mascarilla ultra plus. Cuenta con detalle interior acolchado que proporciona mayor confort.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08X1KR3L2/?tag=tolees-21)
