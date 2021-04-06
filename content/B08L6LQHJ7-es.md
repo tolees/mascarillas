@@ -28,10 +28,10 @@ Ahora mismo tienes [TBOC Mascarillas FFP2 - [Pack 20 Unidades] Máscaras Desecha
 
 🔎:
 
-- MULTIPLES USOS - Adecuadas para uso general, trabajadores de oficina, personal de laboratorio, obreros, camareros, dependientes de tienda. Ideal para lugares concurridos, salidas diarias, temporada de polen, ciclismo, carreras, o actividades al aire libre.
-- ESPECIFICACIONES. Estas Mascarillas FFP2 están 100% Homologadas por la Unión Europea. Certificado CE 2163 conforme a la norma EN149:2001+A1:2009 y al Reglamento UE 2016/425.
 - MÁXIMA PROTECCIÓN. Mascarillas desechables de un sólo uso. No reutilizables. De tacto agradable, con 5 capas, transpirables, cómodas, y fáciles de colocar.
-- 100% SATISFACCIÓN GARANTIZADA - Compra sin riesgo. Si no quedas satisfecho te devolvemos el dinero.
 - TIEMPO DE USO. Estas mascarillas deben ser retiradas después de su tiempo recomendado de uso. Por cuestiones de comodidad e higiene, se suele recomendar no usar las mascarillas durante más de 4 horas seguidas. En caso de que se humedezcan o se deterioren por el uso, se recomienda sustituirlas por otra.
+- MULTIPLES USOS - Adecuadas para uso general, trabajadores de oficina, personal de laboratorio, obreros, camareros, dependientes de tienda. Ideal para lugares concurridos, salidas diarias, temporada de polen, ciclismo, carreras, o actividades al aire libre.
+- 100% SATISFACCIÓN GARANTIZADA - Compra sin riesgo. Si no quedas satisfecho te devolvemos el dinero.
+- ESPECIFICACIONES. Estas Mascarillas FFP2 están 100% Homologadas por la Unión Europea. Certificado CE 2163 conforme a la norma EN149:2001+A1:2009 y al Reglamento UE 2016/425.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L6LQHJ7/?tag=tolees-21)
