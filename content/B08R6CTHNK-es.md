@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CRAZYCHIC - Mascarilla FFP2 Negra Homolo al 23.09 % de descuento'
-date: 2021-04-04 13:22:32
+date: 2021-04-07 01:09:32
 image: 'https://m.media-amazon.com/images/I/41YCIp10yTL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CRAZYCHIC'
 buyurl: 'https://www.amazon.es/dp/B08R6CTHNK/?tag=tolees-21'
 descuento: '23.09'
-average: '11.886551724138'
+average: '11.7641935483872'
 ---
 
 Está [CRAZYCHIC - Mascarilla FFP2 Negra Homologada Certificada CE EN149 - Mascarilla de Protección Respiratoria - Protectora Respirador Antipolvo - 5 Capas Alta Filtración - Paquete de 10 Piezas](https://www.amazon.es/dp/B08R6CTHNK/?tag=tolees-21) con 23.09 de descuento por 9.99 EUR (original: 12.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [CRAZYCHIC - Mascarilla FFP2 Negra Homologada Certificada CE EN149 - Masca
 
 ℹ️:
 
-- EMBALAJE: 1 paquete de 10 piezas envasadas individualmente. Embalaje e instrucciones en francés.
-- ENTREGA RÁPIDA: Stock disponible en España.
-- MATERIAL: 5 capas de filtro. Clip de nariz de metal. Fijación auricular elástica.
 - DESIGN: Máscara de protección respiratoria FFP2. Color negro. Filtrando media mascarilla contra las partículas.
 - CERTIFICACIÓN CE: Probado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascarilla desechable no reutilizable. Alta filtración.
+- MATERIAL: 5 capas de filtro. Clip de nariz de metal. Fijación auricular elástica.
+- ENTREGA RÁPIDA: Stock disponible en España.
+- EMBALAJE: 1 paquete de 10 piezas envasadas individualmente. Embalaje e instrucciones en francés.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R6CTHNK/?tag=tolees-21)
