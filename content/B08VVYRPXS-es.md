@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELIOX Mascarilla FFP2 CE 2163  Mascarill con un 26.15 % de descuento'
-date: 2021-04-06 12:58:01
+date: 2021-04-07 19:32:58
 image: 'https://m.media-amazon.com/images/I/41JnTjlSctL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ELIOX'
 buyurl: 'https://www.amazon.es/dp/B08VVYRPXS/?tag=tolees-21'
 descuento: '26.15'
-average: '13.7807407407407'
+average: '13.6828571428571'
 ---
 
 En este momento está [ELIOX Mascarilla FFP2 CE 2163  Mascarilla Homologada de Protección Civil. 5 capas. Mascara de Alta Eficiencia Filtración + Normativa EN149  Entrega Rapida  20 piezas ](https://www.amazon.es/dp/B08VVYRPXS/?tag=tolees-21) a 11.04 EUR (original: 14.95 EUR) (26.15 %  de descuento) en el siguiente enlace!
