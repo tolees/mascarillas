@@ -28,10 +28,10 @@ En este momento está [Oxyline X 310 SV FFP3 R D respirador Máscara protectora 
 
 🔎:
 
+- Según la norma de la UE EN 149:2001+A1: 2009 y el Reglamento (UE) 2016/425 (PPE)
+- Clase de protección FFP3: Protege contra los efectos nocivos del polvo y los aerosoles sólidos y líquidos.
 - La estanqueidad está garantizada en todo momento por la forma anatómica, la pinza nasal y la espuma sellante interior.
 - Reutilizable según las instrucciones del fabricante.
-- Clase de protección FFP3: Protege contra los efectos nocivos del polvo y los aerosoles sólidos y líquidos.
-- Según la norma de la UE EN 149:2001+A1: 2009 y el Reglamento (UE) 2016/425 (PPE)
 - Alta eficiencia de filtración: Filtra al menos el 99% de las partículas de 0.6µ de diámetro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DTWTHLB/?tag=tolees-21)
