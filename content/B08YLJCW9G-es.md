@@ -28,8 +28,8 @@ Tienes [Club Náutico 50 UNIDADES PACK 2 COLORES 25x2 Mascarilla FFP2 Ultra prot
 
 🔎:
 
-- PACK 50 UNIDADES (25 NEGRO + 25 AZUL)
 - Mascarilla ultra protección FFP2 color Negro. Marcaje CE y EN 149:2001 +A1:2009.
+- PACK 50 UNIDADES (25 NEGRO + 25 AZUL)
 - Excelente Transpirabilidad. Cómodas correas para los oídos. Tamaño 105x155mm plegada. Se sirve en cajas de 25 unidades
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable. No contiene Látex.
 
