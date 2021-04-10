@@ -28,10 +28,10 @@ En este momento está [PTKOONN - Aceite esencial de cicatriz  Petróleo de elimi
 
 🔎:
 
-- ✔ Muy indicado para eliminar manchas, estrías, acné, daños en la piel, estrías, rojeces en el rostro, piernas, manos y brazos.
-- ✔Adecuado para los tipos de piel más sensibles, gracias a tener los ingredientes más efectivos y suaves para atenuar las cicatrices que la naturaleza tiene para ofrecer, juntos trabajan para restaurar y renovar su piel perfecta.
-- ✔Eficacia:Ayuda a reparar el tejido post cicatricial, mejora la elasticidad, iguala la coloración y reduce el picor de las cicatrices.
 - ✔Sugerencia de uso: Aplicar sobre la piel limpia 3 veces al día, haciendo un ligero masaje hasta su total absorción.
 - ✔La fórmula natural de Aceite esencial de cicatriz es una mezcla compleja de extractos botánicos diseñados específicamente para disolver el tejido cicatricial y dejar un tejido limpio, sano y renovado en su lugar.
+- ✔Adecuado para los tipos de piel más sensibles, gracias a tener los ingredientes más efectivos y suaves para atenuar las cicatrices que la naturaleza tiene para ofrecer, juntos trabajan para restaurar y renovar su piel perfecta.
+- ✔Eficacia:Ayuda a reparar el tejido post cicatricial, mejora la elasticidad, iguala la coloración y reduce el picor de las cicatrices.
+- ✔ Muy indicado para eliminar manchas, estrías, acné, daños en la piel, estrías, rojeces en el rostro, piernas, manos y brazos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086PLZ43H/?tag=tolees-21)
