@@ -28,9 +28,9 @@ Está [L Oréal Professionnel - Mascarilla Blondifier Restauradora e Iluminadora
 
 ℹ️:
 
+- Aplicar en medios y puntas, no en raíces; Dejar actuar 2-3 minutos y después aclarar
 - Mascarilla restauradora e iluminadora recomendada para cabellos rubios
 - Tratamiento que repone, suaviza y nutre la fibra capilar, mejorando el brillo natural y el resplandor del cabello rubio
-- Aplicar en medios y puntas, no en raíces; Dejar actuar 2-3 minutos y después aclarar
 - Enriquecida con extracto de moras de acai que contiene polifenoles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GC9YGS6/?tag=tolees-21)
