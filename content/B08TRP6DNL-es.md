@@ -28,10 +28,10 @@ Está [DailySafe Mascarillas FFP2 Caja 30 Unidades. Certificado CE EN 149:2001](
 
 ℹ️:
 
-- Eficiencia de filtración bacteriana BFE @ 3.0 μm largeBacteria ≥ 99%
+- Resistencia a la inhalación A 95l/min del 1,65
 - Presión diferencial (ΔP) ΔP < 4.0 mm of H2O/cm2
 - Resistencia a la exhalación A 160l/min a 2,6
 - Cumple con Normativa EN 149:2001 / + A1:2009
-- Resistencia a la inhalación A 95l/min del 1,65
+- Eficiencia de filtración bacteriana BFE @ 3.0 μm largeBacteria ≥ 99%
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TRP6DNL/?tag=tolees-21)

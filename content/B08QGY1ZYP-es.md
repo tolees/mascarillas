@@ -28,9 +28,9 @@ Está [SANITODOS Mascarilla Filtrante de Protección Contra Particulares No Reut
 
 ℹ️:
 
-- Esta mascara facial FFP1 NR es un equipo de protección respiratoria desechable que cumple con los máximos estándares de protección contra partículas transportadas por el aire.
+- BFE (Filtración)≥93%
 - Composición: Multicapa de tejido Non Woven y Melt blown. Hilado no tejido (Polipropileno) soplado por fusión. Gancho para la oreja, polipropileno elásttico. Permiten una agradable respiración. Buen filtrado
 - Fabricado bajo las especificaciones técnicas FFP1 NR CE 2834 y la normativa GB/T 32610-2016
-- BFE (Filtración)≥93%
+- Esta mascara facial FFP1 NR es un equipo de protección respiratoria desechable que cumple con los máximos estándares de protección contra partículas transportadas por el aire.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QGY1ZYP/?tag=tolees-21)
