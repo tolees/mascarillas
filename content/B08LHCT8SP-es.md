@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'SICURA MASCHERINE CHIRURGICHE - 10 Masca con un 7.07 % de descuento'
-date: 2021-03-24 22:06:33
-image: 'https://m.media-amazon.com/images/I/51XG2oCxn3L._SL400_.jpg'
+title: 'SICURA MASCHERINE CHIRURGICHE - 10 Másca con un 15.03 % de descuento'
+date: 2021-04-18 16:25:44
+image: 'https://m.media-amazon.com/images/I/51XG2oCxn3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08LHCT8SP-es SICURA MASCHERINE CHIRURGICHE - 10 Mascarillas Protectoras...'
+slug: 'B08LHCT8SP-es SICURA MASCHERINE CHIRURGICHE - 10 Máscarillas FFP3...'
 sku: 'B08LHCT8SP-es'
-tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','ffp3','mascarilla','sicura mascherine chirurgiche', ]
-actualPrice: 26.95 EUR
+tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Prevención y seguridad','ffp3','sicura mascherine chirurgiche', ]
+actualPrice: 22.9 EUR
 currency: EUR
-price: 26.95
-comparePrice: 29.0 EUR
-prodname: 'SICURA MASCHERINE CHIRURGICHE - 10 Mascarillas Protectoras FFP3 Homologadas con Certificación CE fabricadas en Italia - Alta Eficiencia de protección bacteriana BFE ≥99% | PFE ≥99% Mascarilla selladas individualmente.'
+price: 22.9
+comparePrice: 26.95 EUR
+prodname: 'SICURA MASCHERINE CHIRURGICHE - 10 Máscarillas FFP3 Homologadas Certificadas CE fabricadas en Italia BFE ≥99% PFE ≥99% Máscarillas ffp3 SANITIZADA sellada individualmente Máscara Homologada ISO'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SICURA MASCHERINE CHIRURGICHE'
 buyurl: 'https://www.amazon.es/dp/B08LHCT8SP/?tag=tolees-21'
-descuento: '7.07'
-average: '34.758'
+descuento: '15.03'
+average: '29.5939285714285'
 ---
 
-En este momento está [SICURA MASCHERINE CHIRURGICHE - 10 Mascarillas Protectoras FFP3 Homologadas con Certificación CE fabricadas en Italia - Alta Eficiencia de protección bacteriana BFE ≥99% | PFE ≥99% Mascarilla selladas individualmente.](https://www.amazon.es/dp/B08LHCT8SP/?tag=tolees-21) a 26.95 EUR (original: 29.0 EUR) (7.07 %  de descuento) en el siguiente enlace!
+En este momento está [SICURA MASCHERINE CHIRURGICHE - 10 Máscarillas FFP3 Homologadas Certificadas CE fabricadas en Italia BFE ≥99% PFE ≥99% Máscarillas ffp3 SANITIZADA sellada individualmente Máscara Homologada ISO](https://www.amazon.es/dp/B08LHCT8SP/?tag=tolees-21) a 22.9 EUR (original: 26.95 EUR) (15.03 %  de descuento) en el siguiente enlace!
 
-[![SICURA MASCHERINE CHIRURGICHE - 10 Masca](https://m.media-amazon.com/images/I/51XG2oCxn3L._SL400_.jpg)](https://www.amazon.es/dp/B08LHCT8SP/?tag=tolees-21)
+[![SICURA MASCHERINE CHIRURGICHE - 10 Másca](https://m.media-amazon.com/images/I/51XG2oCxn3L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08LHCT8SP/?tag=tolees-21)
 
 🔎:
 
+- Certifié ISO 13485 et ISO 9001 pour les dispositifs médicaux.
+- Conforme à la norme européene EN 149:2001+A1:2009.
+- Produit fabriqué en Italie et marqué CE 2841.
+- BFE ≥99% Efficacité de filtration bactérienne.
+- PFE ≥99% Efficacité de filtration des particules.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LHCT8SP/?tag=tolees-21)
