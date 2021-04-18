@@ -28,10 +28,10 @@ En este momento está [SICURA MASCHERINE CHIRURGICHE - 10 Máscarillas FFP3 Homo
 
 🔎:
 
-- Certifié ISO 13485 et ISO 9001 pour les dispositifs médicaux.
-- Conforme à la norme européene EN 149:2001+A1:2009.
 - Produit fabriqué en Italie et marqué CE 2841.
 - BFE ≥99% Efficacité de filtration bactérienne.
 - PFE ≥99% Efficacité de filtration des particules.
+- Certifié ISO 13485 et ISO 9001 pour les dispositifs médicaux.
+- Conforme à la norme européene EN 149:2001+A1:2009.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LHCT8SP/?tag=tolees-21)
