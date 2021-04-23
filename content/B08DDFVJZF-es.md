@@ -30,9 +30,9 @@ En este momento está [Herbal Essences Aceite De Argán De Marruecos  Pack Repar
 
 - Este champú tiene un 0% de parafinas, colorantes y siliconas
 - 90% DE ORIGEN NATURAL: agua purificada y materiales con ingredientes de origen natural poco procesados
+- ACEITE DE ARGÁN Pack Reparación con champús y una mascarilla capilar para recuperar la suavidad
+- Esta mascarilla tiene un 0% de colorantes y parafinas
 - PH equilibrado y seguro para cabellos teñidos
 - CERTIFICADO por el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
-- Esta mascarilla tiene un 0% de colorantes y parafinas
-- ACEITE DE ARGÁN Pack Reparación con champús y una mascarilla capilar para recuperar la suavidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DDFVJZF/?tag=tolees-21)
