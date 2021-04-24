@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEADERSSON LIGHTS ACCOMPANIED - Pack 20  con un 15.04 % de descuento'
-date: 2021-04-21 20:01:20
+date: 2021-04-24 20:20:22
 image: 'https://m.media-amazon.com/images/I/41KEfKKABMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [LEADERSSON LIGHTS ACCOMPANIED - Pack 20 Unidades  Mascari
 
 🔎:
 
-- PACK 20 MASCARILLAS FFP2 CON EMBALAJE INDIVIDUAL
 - 5 Capas. 43% Non-Woven (2 Capas)/ 28,5% Meltblown (2 Capas)/ 28,5% Algodón (1 Capa)
+- PACK 20 MASCARILLAS FFP2 CON EMBALAJE INDIVIDUAL
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable.No contiene Látex.
 - ENVIOS URGENTE A TODA PENINSULA
 - Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 con marcado CE.
