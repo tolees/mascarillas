@@ -28,10 +28,10 @@ Está [ENERGY FUSION FFP2 negra Mascarilla Ultra Proteccion  Homologada  Certifi
 
 ℹ️:
 
-- Contiene:25 Mascarillas FFP2 color negro , Homologadas CE
-- COMPOSICIÓN. 5 capas compuestas de tela no tejida spunbord: Polipropileno hidrófobo, tela no tejida spunlace: polipropileno. Está compuesta por el cuerpo, las cintas elásticas y la pinza nasal.
-- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado , con marcado CE.
 - Evitan irritaciones en la piel y son hipoalergénicas. Están diseñadas con 5 capas interiores duraderas y resistentes a la deformación que combinan tejido de No woven y algodón suave de alta calidad.
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable
+- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado , con marcado CE.
+- COMPOSICIÓN. 5 capas compuestas de tela no tejida spunbord: Polipropileno hidrófobo, tela no tejida spunlace: polipropileno. Está compuesta por el cuerpo, las cintas elásticas y la pinza nasal.
+- Contiene:25 Mascarillas FFP2 color negro , Homologadas CE
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R7K76PT/?tag=tolees-21)
