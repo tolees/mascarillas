@@ -28,10 +28,10 @@ Está [Eco Today - 5 piezas - Mascarillas FFP2 Homologadas y Certificadas CE - 5
 
 ℹ️:
 
-- ✔️ 100% CERTIFICACIÓN CE: FFP2 Mascarilla categoría III | Certificado EN49:2001+A1:2009 | Regulación Europea (UE) 2016/425
 - ✔️ COMODAS Y FACILES DE USAR: Nuestras mascarillas reutilizables FFP2 estan diseñadas para asegurar el mayor confort y para ser faciles de usar. Suaves elasticos para las orejas - pieza de nariz moldeable para sujeción segura
 - 🔝ALTA CALIDAD: Mascarillas blancas FFP2 hechas con materiales no tejidos. Filtro de soplado de fusión. Mascarilla protectora FFP2 de muy alta calidad. Color blanco.
-- 🇮🇹 HECHO EN ITALIA: Mascarilla homologada FFP2 hecha en Italia, producida y empaquetada siguiendo altos estandares de producción y seguridad.
 - ✔️ SEGURIDAD y PROTECCIÓN: Máxima capacidad filtrante (BFE) ≥94%. Mascarilla homologada de 5 capas para mayor protección. Las mascarillas son empacadas individualmente para mayor protección.
+- 🇮🇹 HECHO EN ITALIA: Mascarilla homologada FFP2 hecha en Italia, producida y empaquetada siguiendo altos estandares de producción y seguridad.
+- ✔️ 100% CERTIFICACIÓN CE: FFP2 Mascarilla categoría III | Certificado EN49:2001+A1:2009 | Regulación Europea (UE) 2016/425
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V5KBV1Q/?tag=tolees-21)
