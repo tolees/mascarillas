@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAENA SALUD 50 Mascarillas Quirúrgicas   con un 16.77 % de descuento'
-date: 2021-04-17 15:05:32
+date: 2021-04-29 11:01:08
 image: 'https://m.media-amazon.com/images/I/51HhqBj4W-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [BAENA SALUD 50 Mascarillas Quirúrgicas  higiénicas  des
 
 🔎:
 
-- Este producto es un producto sanitario e higiénico. tipo iir: según su eficacia de filtración bacteriana y en función de su resistencia a las salpicaduras (resistencia a la penetración de salpicaduras de líquido): las iir son resistentes a las salpicaduras
-- Tres capas de filtración - tecnología de 3 capas de filtración que ofrece una eficaz protección contra agentes nocivos: capa intermedia "melt-blown" que une otras dos capas "spunbond" diseñadas para atrapar y retener micropartículas. hecho en españa
+- Cumplen con la normativa dirigida al fabricante a respetar los requisitos técnicos descritos en la norma une-en 14683:2019 + ac:2019 y con el resto de legislación de aplicación en todos sus aspectos
 - No reutilizable. set de 50 mascarillas
 - Máxima seguridad y protección - el filtro evita eficazmente el contacto con sustancias nocivas del aire cuando se usa la mascarilla: filtración bacteriana >=98%; con todos los certificados
-- Cumplen con la normativa dirigida al fabricante a respetar los requisitos técnicos descritos en la norma une-en 14683:2019 + ac:2019 y con el resto de legislación de aplicación en todos sus aspectos
+- Tres capas de filtración - tecnología de 3 capas de filtración que ofrece una eficaz protección contra agentes nocivos: capa intermedia "melt-blown" que une otras dos capas "spunbond" diseñadas para atrapar y retener micropartículas. hecho en españa
+- Este producto es un producto sanitario e higiénico. tipo iir: según su eficacia de filtración bacteriana y en función de su resistencia a las salpicaduras (resistencia a la penetración de salpicaduras de líquido): las iir son resistentes a las salpicaduras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WH6N3VF/?tag=tolees-21)
