@@ -28,10 +28,10 @@ Ahora mismo tienes [La Cosa Tiene Tela - Mascarilla Higiénica de Tela Homologad
 
 🔎:
 
-- MASCARILLA REUTILIZABLE: HOMOLOGADA según norma UNE 0065/2020 y normativa Europera CWA17553. Confeccionada con doble capa de tejido homologado según la norma UNE-0065/2020. No precisa de filtro. Goma elástica CON REGULADOR y ajustador interior no visible para la nariz.
-- Duración de uso máximo recomendado: Por cuestiones de comodidad e higiene, se recomienda no usar la mascarilla por un tiempo superior a 4h. En caso de que se humedezca o deteriore por el uso se recomienda sustituirla por una nueva.
 - Advertencia: Este producto no es un producto sanitario en el sentido de la Directiva 93/42 o del Reglamento UE/2017/745 ni un equipo de protección individual en el sentido del Reglamento UE/2016/425. La mascarilla higiénica no exime al usuario de la aplicación de gestos barrera complementados por las medidas de distanciamiento social, esenciales conforme a las indicaciones del Ministerio de Sanidad del Gobierno de España.
-- EFICACIA DE FILTRADO SUPERIROR AL 90%. LAVABLE hasta 20 lavados: Mantenimiento y duración: Esta mascarilla es reutilizable y lavable a 60º - 40 ciclos de lavado con el detergente habitual y preferiblemente separada de la ropa limpia. Dejarla secar al aire durante 2 h.
+- MASCARILLA REUTILIZABLE: HOMOLOGADA según norma UNE 0065/2020 y normativa Europera CWA17553. Confeccionada con doble capa de tejido homologado según la norma UNE-0065/2020. No precisa de filtro. Goma elástica CON REGULADOR y ajustador interior no visible para la nariz.
 - 100% FABRICADAS EN ESPAÑA: Mascarillas de fabricación 100% española.
+- EFICACIA DE FILTRADO SUPERIROR AL 90%. LAVABLE hasta 20 lavados: Mantenimiento y duración: Esta mascarilla es reutilizable y lavable a 60º - 40 ciclos de lavado con el detergente habitual y preferiblemente separada de la ropa limpia. Dejarla secar al aire durante 2 h.
+- Duración de uso máximo recomendado: Por cuestiones de comodidad e higiene, se recomienda no usar la mascarilla por un tiempo superior a 4h. En caso de que se humedezca o deteriore por el uso se recomienda sustituirla por una nueva.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DKLWYJ2/?tag=tolees-21)
