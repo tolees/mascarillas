@@ -28,9 +28,9 @@ En este momento está [3M Aura 9320+SP Mascarilla autofiltrante para partículas
 
 🔎:
 
-- Con embalaje individual: envase higiénico que protege la mascartilla de cualquier contaminación antes de su uso. Se lleva y almacena más fácilmente antes de su uso
-- Material filtrante de alto rendimiento 3M, que facilita la respiración reduciendo la resistencia y aumentando el confort del usuario
 - Innovador diseño de 3 paneles: se adapta a rostros de diferentes formas y tamaños permitiendo un mayor movimiento facial durante la conversación. Esto hace que sea mucho más cómoda de llevar y fácil de guardar cuando no se esté utilizando
+- Material filtrante de alto rendimiento 3M, que facilita la respiración reduciendo la resistencia y aumentando el confort del usuario
 - Mascarilla desechable FFP2 NR D que protege contra partículas sólidas y/o liquidas no volátiles (clasificación EN 149:2001+Ai:2009, máximo nivel de uso 12 x VLA)
+- Con embalaje individual: envase higiénico que protege la mascartilla de cualquier contaminación antes de su uso. Se lleva y almacena más fácilmente antes de su uso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00D04BJ8U/?tag=tolees-21)
