@@ -28,8 +28,8 @@ Está [Fanola Curly Shine - Mascarilla cabellos rizados y ondulados - cuidado de
 
 ℹ️:
 
+- Deja los cabellos elasticos, ligeros y luminosos, desarrollando una eficaz accion antiestatica y anti-humedad
 - Enriquecida con Proteinas de la Seda, desenreda e hidrata sin apelmazar.
 - Uso: después del champú extender uniformemente sobre largos y puntas, peinar y dejar actuar 5 minutos. Enjuagar abundantemente.
-- Deja los cabellos elasticos, ligeros y luminosos, desarrollando una eficaz accion antiestatica y anti-humedad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01E06NVEG/?tag=tolees-21)
