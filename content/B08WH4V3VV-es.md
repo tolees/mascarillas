@@ -28,13 +28,13 @@ En este momento está [Quanlazer MOONCARE Mascarilla Quirúrgica Tipo IIR  [50 U
 
 🔎:
 
-- No Contiene Grafeno
-- Caja de 50 unidades empaquetadas en 5 bolsas con 10 uds cada bolsa
-- Mascarilla desechable fabricada con tejido de polipropileno (PP) de tres capas. Tela no tejida 68,5%, tela fundida 31,5%
-- Dimensiones producto : 17.5 x 9.5 cm (Adulto)
+- Mascarilla quirúrgica Tipo IIR destinada a limitar la transmisión de agentes infecciosos desde el personal portador.
 - Cumple con la normativa EN14683:2019
 - Fijación: Sujeción por elástico en la parte de las orejas y con adaptador nasal, ligero y moldeable, situado en el borde superior de forma longitudinal.
+- Dimensiones producto : 17.5 x 9.5 cm (Adulto)
+- No Contiene Grafeno
+- Mascarilla desechable fabricada con tejido de polipropileno (PP) de tres capas. Tela no tejida 68,5%, tela fundida 31,5%
+- Caja de 50 unidades empaquetadas en 5 bolsas con 10 uds cada bolsa
 - Mascarilla quirúrgica de 3 capas con elástico Tipo IIR
-- Mascarilla quirúrgica Tipo IIR destinada a limitar la transmisión de agentes infecciosos desde el personal portador.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WH4V3VV/?tag=tolees-21)
