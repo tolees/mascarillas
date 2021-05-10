@@ -28,12 +28,12 @@ Está [Tecnol Mascarilla Quirúrgica IIR Homologadas  pack 50 unidades  Estructu
 
 ℹ️:
 
+- Confeccionada con una Estructura Tricapa de tejido sin tejer y material hipoalergénico, suave e inodoro y libre de látex. No contiene grafeno
 - Pack de 50 unidades
 - Mascarilla Quirúrgica IIR fabricada en España por TECNOL
-- El tipo de mascarilla con el nivel más alto de protección de su clase y mayor calidad diseñada para uso médico
 - Con una Eficacia de Filtración Bacteriana (BFE) superior al 99%
-- Confeccionada con una Estructura Tricapa de tejido sin tejer y material hipoalergénico, suave e inodoro y libre de látex. No contiene grafeno
-- Certificación Oficial Europea EN14683:2019+AC:2019
+- El tipo de mascarilla con el nivel más alto de protección de su clase y mayor calidad diseñada para uso médico
 - Resistente a salpicaduras
+- Certificación Oficial Europea EN14683:2019+AC:2019
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08M45JJH1/?tag=tolees-21)
