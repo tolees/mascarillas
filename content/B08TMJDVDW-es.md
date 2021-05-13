@@ -28,10 +28,10 @@ En este momento está [MRFUNNYKIDS - MEGAPACK - 25 Mascarillas FFP2 Homologadas 
 
 🔎:
 
-- 😍 COMODIDAD - Sin olores raros, ligera y bien rematada para tu confort y seguridad
-- 👍 DEVOLUCIÓN GARANTIZADA - Si no cumple sus expectativas, le devolveremos su dinero.
-- 😱 MEGAPACK - 25 mascarillas negras homologadas + Portamascarillas + 25 Extensores (Mini) + 2 Extensores (Ultraflex)
 - 🇪🇺 HOMOLOGADAS EN EUROPA - ¿Sabias qué muchas mascarillas vendidas dan falsa protección?
+- 😍 COMODIDAD - Sin olores raros, ligera y bien rematada para tu confort y seguridad
+- 😱 MEGAPACK - 25 mascarillas negras homologadas + Portamascarillas + 25 Extensores (Mini) + 2 Extensores (Ultraflex)
+- 👍 DEVOLUCIÓN GARANTIZADA - Si no cumple sus expectativas, le devolveremos su dinero.
 - 🛡️ FFP2 - 5 Capas de ultra protección SIN GRAFENO conforme al reglamento EN 149:2001 - A1:2009
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TMJDVDW/?tag=tolees-21)
