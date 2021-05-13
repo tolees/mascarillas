@@ -28,12 +28,12 @@ Tienes [Filtech Mascarillas FFP3 - 10 Unidades | TALLA L |Certificado Europeo - 
 
 ℹ️:
 
-- COMODIDAD Y AJUSTE - Clip nasal - Almohadilla Nasal interna. Color BLANCO - NR Desechables.
 - HIPOALERGÉNICAS - Dermatológicamente testadas.
-- EMBALAJE - Instrucciones y etiquetado en Español - Bolsa hermética de 5 unidades con clip de cierre.
 - Empresa ESPAÑOLA y envío desde ESPAÑA
-- CONFORTABILIDAD - Bandas de sujeción superior e Inferior (Gomas a la cabeza) - Mejor Ajuste - Mayor sello facial.
+- COMODIDAD Y AJUSTE - Clip nasal - Almohadilla Nasal interna. Color BLANCO - NR Desechables.
+- EMBALAJE - Instrucciones y etiquetado en Español - Bolsa hermética de 5 unidades con clip de cierre.
 - CONFIANZA y EFICACIA - Las mascarilla FFP3 F890 de Filtech es utilizada en los principales hospitales de España.
+- CONFORTABILIDAD - Bandas de sujeción superior e Inferior (Gomas a la cabeza) - Mejor Ajuste - Mayor sello facial.
 - HOMOLOGADA - Cumple la norma EN 149:2001 + A1:2009 y CE de conformidad con el Reglamento Europeo de Equipos de Protección Individual (EU) 2016/425.
 - CALIDAD - Máxima protección >99% Filtración. 6 Capas de protección. Filtech es marca líder en Europa.
 
