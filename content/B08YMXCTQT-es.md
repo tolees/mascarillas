@@ -29,9 +29,9 @@ En este momento está [Xiangying x25 mascarillas FFP2 NR Homologadas y Certifica
 🔎:
 
 - Hecho de tela blanca sin tejer, con> 95% de filtrado BFE
-- Envasado en bolsas individuales para mayor comodidad
+- Equipado con la marca CE 2163 homologadas y certificadas en Europa
 - Comodidad y protección
 - 25 Mascarillas FFP2 homologadas y certificadas filtrantes desechables
-- Equipado con la marca CE 2163 homologadas y certificadas en Europa
+- Envasado en bolsas individuales para mayor comodidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08YMXCTQT/?tag=tolees-21)
