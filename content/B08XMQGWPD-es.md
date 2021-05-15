@@ -28,14 +28,14 @@ En este momento está [Mooncare Dispensador Mascarillas FFP2 [Pack 50 Uds] Oreja
 
 🔎:
 
-- Diseño que permite un ajuste hermético a la cara, cubriendo la nariz, la boca y la barbilla. El cosido exterior sin partes metálicas ayuda a que el ajuste sea más confortable en condiciones adversas.
-- No Contiene Grafeno
-- EN149:2001+A1:2009 Dispositivos de protección respiratoria
-- El clip nasal ayuda a que se ajuste adecuadamente y junto con la almohadilla suave interior lo sella, para evitar que se empañen las gafas.
 - Adecuada para múltiples usos: Uso general, obreros, camareros, deportistas, personal de oficina, etc. Permite la comunicación.
-- Mascarillas FFP2 desechables de un solo uso con una duración recomendada de 8 horas. No reutilizables. Transpirables, suaves y cómodas que permiten la comunicación. Máxima protección con 5 capas.
 - Eficacia de Filtración frente a aerosol de NaCl y aceite de parafina(%) > 94
 - Dispensador con 50 bolsas individuales
 - Reglamento (UE) 2016/425 del Parlamento Europeo y del Consejo de 9 de marzo de 2016.
+- Mascarillas FFP2 desechables de un solo uso con una duración recomendada de 8 horas. No reutilizables. Transpirables, suaves y cómodas que permiten la comunicación. Máxima protección con 5 capas.
+- EN149:2001+A1:2009 Dispositivos de protección respiratoria
+- Diseño que permite un ajuste hermético a la cara, cubriendo la nariz, la boca y la barbilla. El cosido exterior sin partes metálicas ayuda a que el ajuste sea más confortable en condiciones adversas.
+- El clip nasal ayuda a que se ajuste adecuadamente y junto con la almohadilla suave interior lo sella, para evitar que se empañen las gafas.
+- No Contiene Grafeno
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XMQGWPD/?tag=tolees-21)
