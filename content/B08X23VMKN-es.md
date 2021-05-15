@@ -29,9 +29,9 @@ En este momento está [A AIRNATECH - AIRNATECH AIR-E013 FFP2 Mascarillas FFP2 Ho
 🔎:
 
 - Esta mascarilla facial protectora FFP2 AIRNATECH AIR-E013 es un equipo de protección respiratoria desechable fabricada en España que cumple con los máximos estándares de calidad. Certificado con la norma EN149:2001 + A1:2009 por AITEX, que regula los dispositivos de protección respiratoria Clase FFP2.
+- Disponible en 5 colores diferentes, para que elijas el que más te guste.
+- Cada mascarilla ofrece una parte reforzada, cómoda y suave en la zona de la nariz, en forma de V, para un ajuste óptimo. Además, gracias a la banda especial de poliéster el ajuste en las orejas es muy cómodo y sin irritaciones.
 - Cada caja incluye 10 mascarillas FFP2 individualizadas por blisters, para garantizar que sea 100% seguro e higiénico, evitando la contaminación de la mascarilla antes de su uso.
 - Cada mascarilla cuenta con un excelente sistema de filtrado de 5 capas, ofreciendo un alto filtrado de más del 95% de todas las partículas en suspensión, protegiendo así las vías respiratorias y permitiendo que no penetren fluidos tóxicos de gases, aerosoles y polvo.
-- Cada mascarilla ofrece una parte reforzada, cómoda y suave en la zona de la nariz, en forma de V, para un ajuste óptimo. Además, gracias a la banda especial de poliéster el ajuste en las orejas es muy cómodo y sin irritaciones.
-- Disponible en 5 colores diferentes, para que elijas el que más te guste.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08X23VMKN/?tag=tolees-21)
