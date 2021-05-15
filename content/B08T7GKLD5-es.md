@@ -28,10 +28,10 @@ Tienes [IDOIT Mascarillas ffp2 filtro multicapa 20 pcs certificado CE y EN 149:2
 
 ℹ️:
 
-- 【Sistema de filtración de alta eficiencia】Mascarillas ffp2 con sistema de filtración de cinco capas la primera capa de tela no tejida, la segunda capa de tela soplada por fusión de electret de agua, la tercera capa de fusión de electret eléctrica soplada en tierra, la cuarta capa de algodón de aire caliente y la quinta capa de tela no tejida Tasa> 95%
 - 【Mascarilla FFP2 desechable】FFP2 homologadas diseño de clip nasal suave y ajustable incorporado brinda comodidad y seguridad al ajustarse firmemente a la cara
-- 【Ampliamente aplicable】Las máscaras FFP2 son adecuadas para todos los lugares, se recomienda cambiar cada 4 horas en un lugar con mucha gente
 - 【Certificación】Probado y certificado por la CE según la norma EN 149: 2001 + A1: 2009; Reglamento (UE) 2016/425 para equipos de personal
+- 【Sistema de filtración de alta eficiencia】Mascarillas ffp2 con sistema de filtración de cinco capas la primera capa de tela no tejida, la segunda capa de tela soplada por fusión de electret de agua, la tercera capa de fusión de electret eléctrica soplada en tierra, la cuarta capa de algodón de aire caliente y la quinta capa de tela no tejida Tasa> 95%
+- 【Ampliamente aplicable】Las máscaras FFP2 son adecuadas para todos los lugares, se recomienda cambiar cada 4 horas en un lugar con mucha gente
 - 【Hebilla ajustable】La mascarilla FFP2 puede ajustar el puente de la nariz, que se adapta mejor a la cara. Cada caja se entrega con 1 cordones de oreja elásticos ajustables para reducir la sensación de estrangulación y hacerla más cómoda de llevar.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08T7GKLD5/?tag=tolees-21)
