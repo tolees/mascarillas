@@ -29,9 +29,9 @@ Tienes [Aixine Mascarilla FFP2 de Alta Protección Respiratoria [10 Unidades] - 
 🔎:
 
 - Comodidad garantizada: material suave no abrasivo, tiras largas y resistentes, ajustamiento óptimo;
-- Eficiente sistema de filtrado compuesto por 5 capas (> 95% de partículas en el aire);
 - Sello TÜV Rheinland: Verificación y Control de Calidad aprobados por la entidad de certificación independiente por excelencia;
-- Probado y Certificado CE cumpliendo con el estándar de la UE FFP2 NR EN149:2001+A1:2009 para equipos de protección individual (EPIs);
+- Eficiente sistema de filtrado compuesto por 5 capas (> 95% de partículas en el aire);
 - Mascarilla no diseñada para uso médico profesional. Se recomienda a estos profesionales obtener mascarillas designadas específicamente para dichas actividades.
+- Probado y Certificado CE cumpliendo con el estándar de la UE FFP2 NR EN149:2001+A1:2009 para equipos de protección individual (EPIs);
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08X2W19YB/?tag=tolees-21)
