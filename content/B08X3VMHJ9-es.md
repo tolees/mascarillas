@@ -29,8 +29,8 @@ Tienes [Desconocido - 25 UNIDADES Mascarilla FFP2 PUBLIMER Ultra protección - C
 🔎:
 
 - Excelente Transpirabilidad. Cómodas correas para los oídos. Tamaño 105x155mm plegada.
-- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable. No contiene Látex.
 - ESTE PEDIDO INCLUYE: 1 caja de 25 unidades Mascarilla FFP2 color BLANCO + 1 estuche porta mascarillas
+- Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable. No contiene Látex.
 - Mascarilla ultra protección FFP2 color BLANCO. Marcaje CE y EN 149:2001 +A1:2009.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08X3VMHJ9/?tag=tolees-21)
