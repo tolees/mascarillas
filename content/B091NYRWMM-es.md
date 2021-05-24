@@ -29,11 +29,11 @@ Está [SUMGER Mascarilla Quirúrgica Desechable Homologada  50 Unidades  Color A
 ℹ️:
 
 - Mascarilla de 4 capas. Material tela no tejida 67% y tejida de aerosol fundido 33%. BFE≥ 98%.
-- Solmira es el distribuidor exclusivo de SUMGER Mascarilla Quirúrgica en la UE
 - Norma UNE – EN14683:2019+AC:2019 Tryp IIR
-- ¡¡¡EL ENVÍO NO SE TARDA MÁS DE 4 Días!!!
 - Tamaño 17,5 x 9,5 cm. Talla Adulto Estándar
+- ¡¡¡EL ENVÍO NO SE TARDA MÁS DE 4 Días!!!
 - ¡¡¡OJO!!! Cuidado con las falsificaciones.
+- Solmira es el distribuidor exclusivo de SUMGER Mascarilla Quirúrgica en la UE
 - Apto para un solo vez
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091NYRWMM/?tag=tolees-21)
