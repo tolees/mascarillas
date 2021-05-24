@@ -28,9 +28,9 @@ Ahora mismo tienes [IBEROMASK Mascarilla Quirúrgica Tipo IIR. Made in Spain. Ho
 
 🔎:
 
-- Filtro plano rectangular, con pliegues. Tiras de aluminio para su adaptación a la nariz.
 - Alto poder filtración, con Eficacia de Filtración Bacteriana ≥98% (99,9% según el ensayo)
-- Respirabilidad (Pa/cm2) <60. Presión de resistencia a salpicaduras (kPa) ≥ 16,0.
 - Cumplen Normativa : EN 14683:2019+AC:2019
+- Respirabilidad (Pa/cm2) <60. Presión de resistencia a salpicaduras (kPa) ≥ 16,0.
+- Filtro plano rectangular, con pliegues. Tiras de aluminio para su adaptación a la nariz.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WPPBMT2/?tag=tolees-21)
