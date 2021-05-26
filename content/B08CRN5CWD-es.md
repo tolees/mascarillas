@@ -28,8 +28,8 @@ Tienes [LundyBright Mascarillas Quirúrgicas Desechable Mascarillas faciales Tip
 
 ℹ️:
 
-- Adecuado para uso profesional y diario, como restaurante, salón de belleza, tienda de uñas, tienda de mascotas, limpieza, etc... así como cualquier entorno que requiera protección respiratoria.
 - Mascarillas quirúrgicas cómodas: la mascarilla desechable es una mascarilla quirúrgica tipo I con BFE> 95%, norma EN 14683: 2019, el material transpirable hace que la mascarilla sea cómoda de llevar durante mucho tiempo.
+- Adecuado para uso profesional y diario, como restaurante, salón de belleza, tienda de uñas, tienda de mascotas, limpieza, etc... así como cualquier entorno que requiera protección respiratoria.
 - Lundybright es una marca francesa que ofrece equipos de protección para profesionales que buscan productos de calidad sin compromisos. Fabricado en una de nuestras plantas autorizadas y estrictamente controladas en China. Realizamos controles de calidad regulares para mantener altos estándares.
 - Características: Hipoalergénico para aquellos con piel sensible, clip de nariz ajustable, material transpirable, bucles para los oídos, comodidad óptima, desechable (se puede llevar de 4 a 8 horas) – Talla única, 50 máscaras por paquete: 170 mm x 95 mm.
 
