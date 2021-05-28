@@ -28,9 +28,9 @@ Tienes [U-Kiss Mascarilla FFP2 50 x mascarilla respiratoria con certificación C
 
 🔎:
 
+- DISEÑO SEGURO: diseño tridimensional en 3D con un clip nasal suave y ajustable integrado que brinda comodidad y seguridad gracias a su ajuste seguro a la cara. Las correas elásticas son cómodas para la mayoría de hombres y mujeres, incluso con gafas.
 - SEGURIDAD CERTIFICADA: Máscaras faciales de categoría FFP2 NR para protección contra polvo, polen, bacterias y otras partículas sólidas. Certificado CE según EN 149: 2001 + A1: 2009 por el organismo notificado 2163 (APPLUS)
 - TRANSPIRABLE Y CÓMODO: mascarilla facial FFP2 diseñada para proporcionar una resistencia respiratoria ultrabaja que funciona al eliminar el aire de manera efectiva, para reducir la acumulación de calor y humedad, al tiempo que garantiza un uso cómodo durante las actividades diarias
-- DISEÑO SEGURO: diseño tridimensional en 3D con un clip nasal suave y ajustable integrado que brinda comodidad y seguridad gracias a su ajuste seguro a la cara. Las correas elásticas son cómodas para la mayoría de hombres y mujeres, incluso con gafas.
 - PACCHETTO: El paquete incluye 50 paquetes de máscaras FFP2. Hecho de tejido soplado de alta eficiencia con una capacidad de filtrado del 95%.
 - CERTIFICACIÓN DE LA UE: Estas máscaras FFP2 de 5 capas han sido aprobadas por un organismo notificado de la UE.
 
