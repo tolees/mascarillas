@@ -28,10 +28,10 @@ Tienes [Wawech Mascarillas ffp2 homologadas 20 piezas 5 capas de filtro pasar la
 
 🔎:
 
-- 👍【5 Capas Filtro】Las máscaras faciales transpirables ffp2 están hechas de dos capas de tela no tejida, dos capas de tela fundida y una capa de algodón de aire caliente. La capa interna agradable para la piel absorbe la humedad de la respiración
-- 👍【Ampliamente Aplicable】Hay 20 piezas en una caja.y todas de un tamaño. La máscara ffp2 se puede aplicar en el hogar, la oficina, la escuela,el interior, el exterior y lugares públicos más congestionados y concurridos
-- 👍【Pasada Todas Certificación】Probado y certificado por la CE según la norma EN 149: 2001 + A1: 2009
-- 👍【Cómodo】Esta mascarilla desechable ffp2 viene empaquetada individualmente y plegable y evita la contaminación. Se puede colocar perfectamente en mochilas, carteras y bolsillos, fácil de llevar y usar, equipada con pinzas nasales ajustables y ganchos elásticos para las orejas
 - 👍【Diseño 3D】 La forma 3D de la mascarilla antipolvo de copa ffp2 está diseñada de acuerdo con la forma del rostro humano para asegurar la estanqueidad, para adaptarse al rostro humano, para aumentar el volumen de respiración cuando se usa la mascarilla
+- 👍【5 Capas Filtro】Las máscaras faciales transpirables ffp2 están hechas de dos capas de tela no tejida, dos capas de tela fundida y una capa de algodón de aire caliente. La capa interna agradable para la piel absorbe la humedad de la respiración
+- 👍【Pasada Todas Certificación】Probado y certificado por la CE según la norma EN 149: 2001 + A1: 2009
+- 👍【Ampliamente Aplicable】Hay 20 piezas en una caja.y todas de un tamaño. La máscara ffp2 se puede aplicar en el hogar, la oficina, la escuela,el interior, el exterior y lugares públicos más congestionados y concurridos
+- 👍【Cómodo】Esta mascarilla desechable ffp2 viene empaquetada individualmente y plegable y evita la contaminación. Se puede colocar perfectamente en mochilas, carteras y bolsillos, fácil de llevar y usar, equipada con pinzas nasales ajustables y ganchos elásticos para las orejas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B091B24TYC/?tag=tolees-21)
