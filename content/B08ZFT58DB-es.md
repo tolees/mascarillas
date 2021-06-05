@@ -29,9 +29,9 @@ En este momento está [QD HEALTH Mascarillas quirúrgicas Fabricadas en España 
 🔎:
 
 - ✔️[MASCARILLAS QUIRÚRGICAS NEGRAS TIPO IIR] Homologadas – Capacidad de filtración bacteriana BFE>99% - Mascarillas quirúrgicas tipo IIR, fabricadas en España con todas las garantías Sanitarias
-- ✔️[CERTIFICADOS DE LA NORMATIVA UNE EN 14683:2019+AC]
 - 💥[FABRICADAS EN ESPAÑA] Desechables – No reutilizables – Puedes usarlas durante 4 horas, luego deberías desecharlas
 - ✔️[MASCARILLAS DE 3 CAPAS] – Fabricadas con Polipropileno, tienen una alta filtración bacteriana y retención de líquidos
+- ✔️[CERTIFICADOS DE LA NORMATIVA UNE EN 14683:2019+AC]
 - ✔️[LIGERAS, CÓMODAS Y SEGURAS] – Nuestro diseño incluye una capa interior que consigue hasta el 99% de filtración bacteriana. De esta forma podemos fabricar unas mascarillas con tres capas más finas y cómodas pero igual de seguras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08ZFT58DB/?tag=tolees-21)
