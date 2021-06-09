@@ -28,10 +28,10 @@ En este momento está [Mascarillas Chulas - Mascarilla higiénica de tela reutil
 
 🔎:
 
-- Lavados: Hasta 70 lavados. Evitar suavizantes y lavados a temperaturas mayores a 60 grados para mayor durabilidad.
 - Recomendación de uso: 4 horas de uso continuado. Susutituir si se humedece. Se aconseja lavar las manos con jabón antes de colocar la mascarilla, colocar cubriendo completamente boca y naríz y no tocar la mascarilla una vez puesta. Para retirarla quitar desde las gomillas traseras y volver a lavar manos posteriormente.
-- La tela de la capa exterior de la mascarilla es hidrofugada por lo que repele el agua y gotas que proviene del exterior, sin embargo la capa interior absorbe la humedad y la transporta hacia afuera.
-- Advertencia: Este no es un producto sanitario, no EPI.
 - Mascarilla higiénica reutilizable hasta 70 lavados, con tejido exterior 80% Poliester y 20% Elastano. Tejido interior 100% Poliester
+- Advertencia: Este no es un producto sanitario, no EPI.
+- Lavados: Hasta 70 lavados. Evitar suavizantes y lavados a temperaturas mayores a 60 grados para mayor durabilidad.
+- La tela de la capa exterior de la mascarilla es hidrofugada por lo que repele el agua y gotas que proviene del exterior, sin embargo la capa interior absorbe la humedad y la transporta hacia afuera.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MVLWDTP/?tag=tolees-21)
