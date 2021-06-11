@@ -28,8 +28,8 @@ Ahora mismo tienes [YUXI Mascarillas FFP2 Homologadas  10 Unidades  Color Morado
 
 🔎:
 
-- Ofrece protección respiratoria a través de su filtro con eficacia de filtración mínima ≥94%, alta calidad y rendimiento.
-- Mascarilla autofiltrante, cumple con la normativa EN 149:2001 + A1:2009. Macado CE 1463.
 - Estas mascarillas con marcado CE están consideradas como EQUIPO DE PROTECCIÓN INDIVIDUAL (EPI) de tal modo que cumplen todos los requisitos en el sentido del Reglamento (UE) 2016/425.
+- Mascarilla autofiltrante, cumple con la normativa EN 149:2001 + A1:2009. Macado CE 1463.
+- Ofrece protección respiratoria a través de su filtro con eficacia de filtración mínima ≥94%, alta calidad y rendimiento.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08ZJJYZ2S/?tag=tolees-21)
