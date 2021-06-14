@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUMGER Mascarilla Quirúrgica Desechable  al 27.83 % de descuento'
-date: 2021-05-24 18:59:47
+date: 2021-06-14 19:56:07
 image: 'https://m.media-amazon.com/images/I/41sfUAlxRlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SUMGER'
 buyurl: 'https://www.amazon.es/dp/B091NYRWMM/?tag=tolees-21'
 descuento: '27.83'
-average: '8.6'
+average: '8.13666666666667'
 ---
 
 Está [SUMGER Mascarilla Quirúrgica Desechable Homologada  50 Unidades  Color Azul Marino  CE BFE ≥98%  EN 14683:2019+AC:2019 Type IIR](https://www.amazon.es/dp/B091NYRWMM/?tag=tolees-21) con 27.83 de descuento por 7.21 EUR (original: 9.99 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [SUMGER Mascarilla Quirúrgica Desechable Homologada  50 Unidades  Color A
 
 ℹ️:
 
-- Mascarilla de 4 capas. Material tela no tejida 67% y tejida de aerosol fundido 33%. BFE≥ 98%.
+- Apto para un solo vez
+- Solmira es el distribuidor exclusivo de SUMGER Mascarilla Quirúrgica en la UE
 - Norma UNE – EN14683:2019+AC:2019 Tryp IIR
 - Tamaño 17,5 x 9,5 cm. Talla Adulto Estándar
 - ¡¡¡EL ENVÍO NO SE TARDA MÁS DE 4 Días!!!
 - ¡¡¡OJO!!! Cuidado con las falsificaciones.
-- Solmira es el distribuidor exclusivo de SUMGER Mascarilla Quirúrgica en la UE
-- Apto para un solo vez
+- Mascarilla de 4 capas. Material tela no tejida 67% y tejida de aerosol fundido 33%. BFE≥ 98%.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B091NYRWMM/?tag=tolees-21)
