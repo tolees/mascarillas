@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.67 % en LundyBright Mascarillas Quirúrgicas Dese'
-date: 2021-05-27 20:03:16
+date: 2021-06-15 00:01:42
 image: 'https://m.media-amazon.com/images/I/51sKGJ90pxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LundyBright'
 buyurl: 'https://www.amazon.es/dp/B08CRN5CWD/?tag=tolees-21'
 descuento: '32.67'
-average: '8.89666666666666'
+average: '8.71555555555555'
 ---
 
 Tienes [LundyBright Mascarillas Quirúrgicas Desechable Mascarillas faciales Tipo I 50 unidades 95% filtración BFE  norma UE/UNE EN-14683:2019+AC:2019](https://www.amazon.es/dp/B08CRN5CWD/?tag=tolees-21) con un 32.67 % de descuento con precio de oferta de 6.72 EUR (original: 9.98 EUR) en el siguiente enlace!
