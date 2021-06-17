@@ -28,10 +28,10 @@ Tienes [Bejar Mascarillas Quirúrgicas tipo IIR. Pack 200 uds. 3 capas  99 7% de
 
 🔎:
 
-- Triple capa protectora + filtro TNT que proporciona una filtración del 99,7% de gérmenes y polvo.
+- Presentación en 4 cajas de 50 unidades.
 - Mascarillas quirúrgicas acorde a la normativa UNE-EN14683:2019+AC certificado por el Instituto Tecnológico Textil (Aitex).
+- Triple capa protectora + filtro TNT que proporciona una filtración del 99,7% de gérmenes y polvo.
 - Material hipoalergénico, exento de ingredientes tóxicos y olores nocivos.
 - Sistema de sujeción con cintas elásticas y resistentes. Ajuste nasal.
-- Presentación en 4 cajas de 50 unidades.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08QJ9QFWS/?tag=tolees-21)
