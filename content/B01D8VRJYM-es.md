@@ -28,9 +28,9 @@ En este momento está [Himalaya Herbals  Mascarilla de Almendra y Pepino  75 ml]
 
 🔎:
 
-- Esta mascarilla rejuvenecedora desobstruye los poros, arrastra consigo las manchas y deja una piel sana, firme y brillante
-- Arrastra consigo las manchas. Reafirma y rejuvenece
 - La almendra nutre, calma y suaviza la piel
+- Arrastra consigo las manchas. Reafirma y rejuvenece
 - Producto de alta calidad
+- Esta mascarilla rejuvenecedora desobstruye los poros, arrastra consigo las manchas y deja una piel sana, firme y brillante
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01D8VRJYM/?tag=tolees-21)
