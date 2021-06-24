@@ -28,10 +28,10 @@ En este momento está [ENERGY FUSION - Mascarilla FFP2 rosa homologada caja de 2
 
 🔎:
 
-- Contiene: 20 Mascarillas FFP2 rosa + Ajustador Craneal , desechables, CE 2834 no contiene grafeno
-- MÁXIMA PROTECCIÓN +94%: impide que inhalemos fluidos tóxicos de polvo, aerosoles y humos. Actúa contra distintos tipos tóxicos de polvo, humo y aerosoles.
-- Probado y certificado por la CE según la norma EN 149: 2001 + A1: 2009; Reglamento (UE) 2016/425 para equipos de protección personal
-- Esta mascara facial FFP2 NR es un equipo de protección respiratoria desechable que cumple con los máximos estándares de protección contra partículas transportadas por el aire. La mascarilla desechable FFP2 95% de eficacia de filtración mínima, 8% de fuga hacia el exterior, ofrece protección frente a residuos no tóxicos, sí frente a elementos fibrogénicos.
 - Características: hipoalergénico, clip de nariz ajustable, material transpirable, comodidad óptima y filtración
+- Probado y certificado por la CE según la norma EN 149: 2001 + A1: 2009; Reglamento (UE) 2016/425 para equipos de protección personal
+- MÁXIMA PROTECCIÓN +94%: impide que inhalemos fluidos tóxicos de polvo, aerosoles y humos. Actúa contra distintos tipos tóxicos de polvo, humo y aerosoles.
+- Contiene: 20 Mascarillas FFP2 rosa + Ajustador Craneal , desechables, CE 2834 no contiene grafeno
+- Esta mascara facial FFP2 NR es un equipo de protección respiratoria desechable que cumple con los máximos estándares de protección contra partículas transportadas por el aire. La mascarilla desechable FFP2 95% de eficacia de filtración mínima, 8% de fuga hacia el exterior, ofrece protección frente a residuos no tóxicos, sí frente a elementos fibrogénicos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08N8RWNBZ/?tag=tolees-21)
