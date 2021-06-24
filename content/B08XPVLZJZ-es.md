@@ -28,10 +28,10 @@ En este momento está [Mask666 - Mascarilla FFP2 Blanca Certificada CE - Mascari
 
 🔎:
 
+- ✅Vendedor Unico OLIVIA DESIGN .
+- ✅Stock en España, entrega inmediata.
 - ✅MATERIAL: Material 5 capas. 2 capas exteriores de non woven. 2 capas de melt blown. 1 capa hot air cotton Clip de nariz de metal. Fijación auricular elástica.
 - ✅EMBALAJE: Termosellada en bolsas individuales. 20 piezas por caja.
 - ✅CERTIFICACIÓN CE 2163: Aprobado y conforme con la norma europea EN149: 2001 + A1: 2009 FFP2 NR. Mascarilla desechable no reutilizable. Alta filtración.
-- ✅Stock en España, entrega inmediata.
-- ✅Vendedor Unico OLIVIA DESIGN .
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XPVLZJZ/?tag=tolees-21)
