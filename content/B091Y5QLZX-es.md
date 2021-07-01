@@ -28,10 +28,10 @@ Tienes [JOYSKY Mascarillas Faciales Desechables FFP2  20pcs Mascarilla de Protec
 
 ℹ️:
 
-- 【Respirable】Nuestras Mascarillas FFP2 ofrecen un nivel de protección extremadamente alto sin aumentar su carga respiratoria.
-- 【Mascarillas FFP2】Mascarillas FFP2 de 20 piezas, filtra más del 95% de los aerosoles de agua y aceite, así como el polvo fino.
-- 【Filtración Multicapa】Nuestras mascarillas tienen un sistema de filtro multicapa con capacidad de filtrado alta, lo que hace que sus viajes sean más seguros y protegidos.
 - 【Adecuado para Usuarios de Gafas】La tela suave de la mascarilla absorbe de manera óptima la humedad del aire exhalado y previene que las gafas se empañen.
+- 【Respirable】Nuestras Mascarillas FFP2 ofrecen un nivel de protección extremadamente alto sin aumentar su carga respiratoria.
+- 【Filtración Multicapa】Nuestras mascarillas tienen un sistema de filtro multicapa con capacidad de filtrado alta, lo que hace que sus viajes sean más seguros y protegidos.
+- 【Mascarillas FFP2】Mascarillas FFP2 de 20 piezas, filtra más del 95% de los aerosoles de agua y aceite, así como el polvo fino.
 - 【Tejido de Punto que no Daña la Piel】El exterior y el interior de la mascarilla están hechos de tejidos de punto suaves que son cómodos y no daña la piel.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B091Y5QLZX/?tag=tolees-21)
