@@ -28,10 +28,10 @@ En este momento está [LDREAMAM - Mascarilla de espinilla  Aguacate Mascarillas 
 
 🔎:
 
-- Limpieza profunda: El lodo del Mar Muerto elimina el exceso de aceites, suciedad y toxinas, dejando su cutis limpio y suave. Reduce los poros, puntos negros y el acné.La suciedad para una piel más joven, mejor y de aspecto claro
+- Naturalmente suave: con los extractos de aguacate puede estar seguro de que su piel se sentirá cuidada e hidratada en poco tiempo. Todos los ingredientes activos penetran profundamente en la piel y cuidan la piel de adentro hacia afuera.
+- Prueba de aplicación: Para aquellos con piel sensible, primero haga una prueba de piel.,aplique una pequeña cantidad en un área cubierta de su piel antes de aplicarla en su rostro.
 - Perfecto para todo tipo de piel: Es adecuado para pieles mixtas, pieles grasas y pieles secas, incluida la piel sensible. Proporcionan una hidratación intensiva en poco tiempo, siempre y en todas partes. Tu piel luce fresca, relajada y suave.
 - Llumina el color de la piel: que limpia eficazmente los poros de la piel, elimina a fondo la suciedad de la piel, ajusta el equilibrio de agua y aceite de la piel, mejora la opacidad del rostro y aclara el tono de la piel. las manchas oscuras, las imperfecciones y el tono desigual de la piel.
-- Prueba de aplicación: Para aquellos con piel sensible, primero haga una prueba de piel.,aplique una pequeña cantidad en un área cubierta de su piel antes de aplicarla en su rostro.
-- Naturalmente suave: con los extractos de aguacate puede estar seguro de que su piel se sentirá cuidada e hidratada en poco tiempo. Todos los ingredientes activos penetran profundamente en la piel y cuidan la piel de adentro hacia afuera.
+- Limpieza profunda: El lodo del Mar Muerto elimina el exceso de aceites, suciedad y toxinas, dejando su cutis limpio y suave. Reduce los poros, puntos negros y el acné.La suciedad para una piel más joven, mejor y de aspecto claro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0888SGHGM/?tag=tolees-21)
