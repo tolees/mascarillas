@@ -29,8 +29,8 @@ En este momento está [LEADERSSON LIGHTS ACCOMPANIED - Pack 20 Unidades  Mascari
 🔎:
 
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable.No contiene Látex.
-- PACK 20 MASCARILLAS FFP2 CON EMBALAJE INDIVIDUAL
 - 5 Capas. 43% Non-Woven (2 Capas)/ 28,5% Meltblown (2 Capas)/ 28,5% Algodón (1 Capa)
+- PACK 20 MASCARILLAS FFP2 CON EMBALAJE INDIVIDUAL
 - ENVIOS URGENTE A TODA PENINSULA
 - Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 con marcado CE.
 
