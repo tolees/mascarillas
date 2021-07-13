@@ -28,10 +28,10 @@ Tienes [SYMTEX 100 Unidades Mascarillas Quirúrgicas Tipo IIR Certificado CE  Ma
 
 🔎:
 
-- ✅ PROTECCIÓN: La mascarilla tipo IIR triple capa en relación a su eficacia de filtración bacteriana. Tiene una eficacia de filtración bacteriana igual o superior al 98%.
-- ✅ BILL - Después de la confirmación del envío, recibirá automáticamente la factura con el IVA reportado , ideal para comerciantes y empresas.
-- ✅ NORMATIVA: Mascarillas quirúrgicas fabricadas conforme a Directiva 93/42/CEE relativa a productos sanitarios siguiendo norma EN 14683:2019+AC:2019.
-- ✅ No reutilizable. set de 100 mascarillas
 - ✅ Tres capas de filtración - tecnología de 3 capas de filtración que ofrece una eficaz protección contra agentes nocivos: capa intermedia "melt-blown" que une otras dos capas "spunbond" diseñadas para atrapar y retener micropartículas.
+- ✅ No reutilizable. set de 100 mascarillas
+- ✅ PROTECCIÓN: La mascarilla tipo IIR triple capa en relación a su eficacia de filtración bacteriana. Tiene una eficacia de filtración bacteriana igual o superior al 98%.
+- ✅ NORMATIVA: Mascarillas quirúrgicas fabricadas conforme a Directiva 93/42/CEE relativa a productos sanitarios siguiendo norma EN 14683:2019+AC:2019.
+- ✅ BILL - Después de la confirmación del envío, recibirá automáticamente la factura con el IVA reportado , ideal para comerciantes y empresas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WZ2F7K9/?tag=tolees-21)
