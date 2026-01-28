@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CUIDADO PROBIÓTICO DE LA PIEL - ayuda a restaurar la barrera natural para la piel enrojecida, seca, sensible e irritable.
-- VEGANO Y LIBRE DE CRUELDAD - no probamos ninguno de nuestros productos o materias primas en animales, y no pedimos a terceros que prueben en nuestro nombre
-- CERTIFICADO ORGÁNICO - por la Soil Association conforme a la normativa COSMOS. Nunca usamos Parabenos, Lauril sulfato de sodio (SLS), Colores sintéticos, Aceite mineral, DEA, BHT o Isothiazolinonas
-- APOYO A LA ACCIÓN PLANETARIA - nuestros productos están en envases reciclados y reciclables y dentro de cartón certificado por el FSC. Siempre que es posible, nuestro embalaje está hecho utilizando plástico reciclado destinado al océano
 - NATURAL - esta mascarilla cremosa superhidratante está formulada para rescatar la piel cansada, estresada y con problemas.
+- APOYO A LA ACCIÓN PLANETARIA - nuestros productos están en envases reciclados y reciclables y dentro de cartón certificado por el FSC. Siempre que es posible, nuestro embalaje está hecho utilizando plástico reciclado destinado al océano
+- VEGANO Y LIBRE DE CRUELDAD - no probamos ninguno de nuestros productos o materias primas en animales, y no pedimos a terceros que prueben en nuestro nombre
+- CUIDADO PROBIÓTICO DE LA PIEL - ayuda a restaurar la barrera natural para la piel enrojecida, seca, sensible e irritable.
+- CERTIFICADO ORGÁNICO - por la Soil Association conforme a la normativa COSMOS. Nunca usamos Parabenos, Lauril sulfato de sodio (SLS), Colores sintéticos, Aceite mineral, DEA, BHT o Isothiazolinonas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWVN13Y2{{</world>}}
