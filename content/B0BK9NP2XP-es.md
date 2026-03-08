@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CERTIFICADO CE 2797 por BSI: Mascarillas FFP2 Adeste aprobadas tras pruebas rigurosas y certificadas por SGS, organismo Europeo de control. Cumple con Reglamento (UE) 2016/425; validez verificable por código QR en caja
 - SEGURA Y FIABLE: 5 capas, doble filtro, alta filtración, fabricada en sala limpia bajo
+- CERTIFICADO CE 2797 por BSI: Mascarillas FFP2 Adeste aprobadas tras pruebas rigurosas y certificadas por SGS, organismo Europeo de control. Cumple con Reglamento (UE) 2016/425; validez verificable por código QR en caja
 - BANDAS ELÁSTICAS CÓMODAS Y PROTECTORAS: Bandas elásticas más grandes, cómodas e hipoalergénicas que no irritan los oídos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
