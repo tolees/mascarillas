@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - SÉRUM DE PIEL CON brillo de vidrio coreano: Este suero de brillo rosado se dirige a la piel opaca y aumenta la elasticidad, ayudando a prevenir futuras erupciones mientras mejora el brillo y la resistencia de la piel.
-- PASO 1: Después de la limpieza, prepara la textura de la piel con el Zero Pore Pad. PASO 2: Aplica el sérum PDRN para lograr una piel luminosa. PASO 3: Mantén la piel hidratada con la mascarilla en gel PDRN.
 - Formulación avanzada: enriquecida con ADN PDRN de salmón y colágeno de bajo peso molecular para una tez tersa y radiante. El PDRN aumenta la hidratación y apoya la producción de colágeno. El colágeno hidrolizado penetra profundamente para que la piel luzca suave.
 - Exfolia y refina los poros: perfecto para aquellos preocupados por los poros dilatados, buscando una piel más suave, luchando contra la piel grasa del exceso de sebo
+- PASO 1: Después de la limpieza, prepara la textura de la piel con el Zero Pore Pad. PASO 2: Aplica el sérum PDRN para lograr una piel luminosa. PASO 3: Mantén la piel hidratada con la mascarilla en gel PDRN.
 - SÉRUM DE PIEL CON brillo de vidrio coreano: Este suero de brillo rosado se dirige a la piel opaca y aumenta la elasticidad, ayudando a prevenir futuras erupciones mientras mejora el brillo y la resistencia de la piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✪ Hidratación probada y duradera
 - Estimula, refresca y regenera
+- ✪ Hidratación probada y duradera
 - ✪ Con espino amarillo, manteca de karité y pantenol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
