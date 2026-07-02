@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAPACIDAD FILTRANTE BFE: Material altamente filtrante con una eficacia del 98%.
-- MODO DE EMPLEO: Mascarilla quirúrgica con elásticos auriculares. Envasado en 10 bolsas transparentes selladas de 10 mascarillas.
-- RESISTENTE a las salpicaduras. Material no citotóxico, no sensibilizante y no irritante.
-- MASCARILLA QUIRÚRGICA desechable de 3 capas tipo IIR. Conforme a las normas UNI EN 14683:2019+AC:2019 e ISO 10993.
 - POLONORD ADESTE trabaja para que los dispositivos médicos y los equipos de protección estén amplia y rápidamente disponibles para aumentar la propia seguridad y conocer el propio estado.
+- RESISTENTE a las salpicaduras. Material no citotóxico, no sensibilizante y no irritante.
+- CAPACIDAD FILTRANTE BFE: Material altamente filtrante con una eficacia del 98%.
+- MASCARILLA QUIRÚRGICA desechable de 3 capas tipo IIR. Conforme a las normas UNI EN 14683:2019+AC:2019 e ISO 10993.
+- MODO DE EMPLEO: Mascarilla quirúrgica con elásticos auriculares. Envasado en 10 bolsas transparentes selladas de 10 mascarillas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPJQGW6N{{</world>}}
