@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ¿QUÉ CONTIENE? | Curl Booster (Gel de Definición) + Moisturizer Leave In (Crema de Peinado) + Mascarilla Ultranutritiva + Turbante.
+- FÓRMULAS INTELIGENTES | Este pack mejora la salud capilar con ingredientes 100% seguros y libres de tóxicos, siliconas ni sulfatos.
+- CUIDADO INTEGRAL DE TUS RIZOS | Este pack te aporta todo lo que el cabello rizado necesita: hidratación, nutrición y definición para conseguir unos rizos profesionales desde la comodidad de tu casa.
 - IDEAL PARA | Hidratación y nutrición para cabellos encrespados, dañados, castigados, teñidos, sin fuerza y sin brillo. Apto para personas veganas, celíacos y mujeres embarazadas o en proceso de lactancia.
 - RIZOS PERFECTOS | Consigue resultados profesionales sin salir de tu casa con el Plan Nutrición Rizos. Contamos con las fórmulas más eficaces para revivir, nutrir e hidratar en profundidad tus rizos.
-- CUIDADO INTEGRAL DE TUS RIZOS | Este pack te aporta todo lo que el cabello rizado necesita: hidratación, nutrición y definición para conseguir unos rizos profesionales desde la comodidad de tu casa.
-- FÓRMULAS INTELIGENTES | Este pack mejora la salud capilar con ingredientes 100% seguros y libres de tóxicos, siliconas ni sulfatos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BY3NXN3B{{</world>}}
