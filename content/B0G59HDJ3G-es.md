@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - MASCARILLA HIDRATANTE: La mascarilla Hydre de Sebastian Professional aporta una hidratación intensa al cabello.
 - REPARACIÓN INTENSA: Tratamiento reparador para el cabello de 5 minutos para hidratar en profundidad y aportar un movimiento sedoso.
-- CUIDADO DEL CABELLO: Apto para cabello coloreado o tratado químicamente.
-- TRATAMIENTO HIDRATANTE: Una mascarilla para cabello seco y deshidratado.
 - ACABADO SEDOSO: Hidrata en profundidad el cabello seco con Sebastian Hydre.
+- TRATAMIENTO HIDRATANTE: Una mascarilla para cabello seco y deshidratado.
+- CUIDADO DEL CABELLO: Apto para cabello coloreado o tratado químicamente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G59HDJ3G{{</world>}}

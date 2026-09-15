@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ✪ Con espino amarillo, manteca de karité y pantenol
 - Estimula, refresca y regenera
 - ✪ Hidratación probada y duradera
-- ✪ Con espino amarillo, manteca de karité y pantenol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B081NB9WND{{</world>}}
