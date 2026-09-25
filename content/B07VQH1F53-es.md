@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moroccanoil Mascarilla Con Color: Cacao 30ml'
-date: 2026-09-16 11:11:47
+date: 2026-09-20 21:14:10
 image: 'https://m.media-amazon.com/images/I/41YmkediSYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
