@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mascarillas.tole.es/sitemap.xml
